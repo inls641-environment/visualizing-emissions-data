@@ -1,0 +1,5 @@
+Hello!
+This is the folder where data will be stored.
+
+"_RAW" means the data has been downloaded directly from data.cdp.net
+"_CEAN" means the data has been altered by the project team.
