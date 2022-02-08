@@ -1,0 +1,777 @@
+Questionnaire Name,Account Number,Account Name,Country,CDP Region,ParentSection,Section,RowNumber,RowName,Coal,Gas,Oil,Nuclear,Hydro,Biomass,Wind,Geothermal,Solar,Other sources,Total - please ensure this equals 100%,Year data applies to
+Cities 2020,1184,City of Austin,United States of America,North America,,Energy,1,Electricity source,26,13.5,0,23,0,1.6,28.4,0,7.5,,,2018
+Cities 2020,1499,Ajuntament de Barcelona,Spain,Europe,,Energy,1,Electricity source,0,24.38,0.25,44.39,11.36,0.16,5.73,0,0.97,12.76,100,2018
+Cities 2020,1850,Birmingham City Council,United Kingdom of Great Britain and Northern Ireland,Europe,,Energy,1,Electricity source,5,39.4,0,19.4,1.5,10.7,17.4,0,3.8,2.8,100,2018
+Cities 2020,2185,Bristol City Council,United Kingdom of Great Britain and Northern Ireland,Europe,,Energy,1,Electricity source,3.5,30.3,0.2,13.5,2.6,10,25.6,0,0,14.3,100,2020
+Cities 2020,2430,City of Burlington,United States of America,North America,,Energy,1,Electricity source,0,0,0.1,0,35.8,36,27.8,0,0.3,0,100,
+Cities 2020,3203,City of Chicago,United States of America,North America,,Energy,1,Electricity source,26,34,0,34,2,0,3,0,0,1,100,
+Cities 2020,3417,New York City,United States of America,North America,,Energy,1,Electricity source,0.27,56.14,1.44,31.92,6.43,2.14,0.9,0,0.32,0.44,100,2019
+Cities 2020,3422,Greater London Authority,United Kingdom of Great Britain and Northern Ireland,Europe,,Energy,1,Electricity source,5.1,39.5,2.9,19.5,1.7,,17.1,0,3.9,10.4,,2018
+Cities 2020,3429,City of Stockholm,Sweden,Europe,,Energy,1,Electricity source,3,2,0,21,53,6,10,,,5,,2018
+Cities 2020,5871,Essex County Council,United Kingdom of Great Britain and Northern Ireland,Europe,,Energy,1,Electricity source,5.1,39.5,0.3,19.5,1.65,10.51,17.18,0,3.87,2.39,100,2018
+Cities 2020,8242,City of Helsinki,Finland,Europe,,Energy,1,Electricity source,7.5,5.9,0.3,34.7,18.6,18.1,9.1,0,0.3,5.5,100,2019
+Cities 2020,10495,City of Las Vegas,United States of America,North America,,Energy,1,Electricity source,0,70.9,0,0,1.54,0.38,2.01,11.9,11.36,1.91,100,2019
+Cities 2020,10894,City of Los Angeles,United States of America,North America,,Energy,1,Electricity source,18,31,0,10,8,1,10,4,11,7,100,
+Cities 2020,11315,City of Manchester,United Kingdom of Great Britain and Northern Ireland,Europe,,Energy,1,Electricity source,35.4,28.2,1,22.3,1.3,4.7,5.3,0.8,1,0,100,2018
+Cities 2020,13067,City of New Orleans,United States of America,North America,,Energy,1,Electricity source,2,51,0,34,0,0,0,0,0,13,100,
+Cities 2020,13113,Newcastle City Council,United Kingdom of Great Britain and Northern Ireland,Europe,,Energy,1,Electricity source,1.99,39.39,0.3,15.52,1.48,9.59,21.97,0,1.54,8.22,100,2019
+Cities 2020,13506,Nottingham City Council,United Kingdom of Great Britain and Northern Ireland,Europe,,Energy,1,Electricity source,5.26,39.38,0.5,19.49,2.38,9.61,17.1,0,3.87,2.41,100,2018
+Cities 2020,14088,City of Oslo,Norway,Europe,,Energy,1,Electricity source,0,1,1,0,98,0,0,0,0,0,100,
+Cities 2020,14344,"City of Park City, UT",United States of America,North America,,Energy,1,Electricity source,61.96,15.4,0,0,5.18,0.43,7.1,0.38,0.08,9.47,100,2016
+Cities 2020,14874,"City of Portland, OR",United States of America,North America,,Energy,1,Electricity source,38.1,25.2,0.1,0.4,25,0.4,9.7,0.1,0.3,0.7,100,2016
+Cities 2020,16581,City of Seattle,United States of America,North America,,Energy,1,Electricity source,0,0,0,5,86,1,7,0,0,1,100,2018
+Cities 2020,17411,Southend on Sea Borough Council,United Kingdom of Great Britain and Northern Ireland,Europe,,Energy,1,Electricity source,0.2,49.47,0,0,0,1.83,0,0,0,48.5,100,2005
+Cities 2020,19233,Município de Torres Vedras,Portugal,Europe,,Energy,1,Electricity source,10,40,10,0,20,10,4,1,1,4,100,2014
+Cities 2020,20113,City of Vancouver,Canada,North America,,Energy,1,Electricity source,0,2,0,0,91,6,1,0,0,0,100,2018
+Cities 2020,31009,City of Copenhagen,Denmark,Europe,,Energy,1,Electricity source,19,6,1,4,11,13,38,0,4,4,100,2018
+Cities 2020,31051,Coventry City Council,United Kingdom of Great Britain and Northern Ireland,Europe,,Energy,1,Electricity source,6,38,0,11,8.6,8.6,8.6,8.6,8.6,2,100,2019
+Cities 2020,31052,City of Cardiff,United Kingdom of Great Britain and Northern Ireland,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,31056,Edinburgh City Council,United Kingdom of Great Britain and Northern Ireland,Europe,,Energy,1,Electricity source,3,26,0,12,4,9,13,0,27,6,100,2020
+Cities 2020,31090,District of Columbia,United States of America,North America,,Energy,1,Electricity source,15.5,39.6,0.5,38.9,2,1.7,1,0,0.5,0.3,100,2018
+Cities 2020,31108,City of Houston,United States of America,North America,,Energy,1,Electricity source,22.62,48.55,0.03,10,0.22,0.24,17.02,0,0.77,0.55,100,2018
+Cities 2020,31109,City of Melbourne,Australia,Southeast Asia and Oceania,,Energy,1,Electricity source,75,6.2,,,5.5,1,8.8,,3,0.5,,2018
+Cities 2020,31110,Roma Capitale,Italy,Europe,,Energy,1,Electricity source,,,,,,,,,,,,2018
+Cities 2020,31111,Tokyo Metropolitan Government,Japan,East Asia,,Energy,1,Electricity source,20,58,2,,,,,,,20,,2018
+Cities 2020,31112,Kaohsiung City Government,"Taiwan, Greater China",East Asia,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,31113,City of Yokohama,Japan,East Asia,,Energy,1,Electricity source,5,46,14,20,16,0,0,0,0,0,101,2017
+Cities 2020,31114,City of Sydney,Australia,Southeast Asia and Oceania,,Energy,1,Electricity source,62.7,19.6,2,0,6.3,1.4,4.9,0,3.1,,,2019
+Cities 2020,31115,City of Johannesburg,South Africa,Africa,,Energy,1,Electricity source,99.3,0,0,0,0,0.3,0,0,0.4,0,100,2019
+Cities 2020,31117,City of Toronto,Canada,North America,,Energy,1,Electricity source,,29,,34,23,1,12,,1,,,2020
+Cities 2020,31146,Addis Ababa City Administration,Ethiopia,Africa,,Energy,1,Electricity source,,,,,70,,10,10,10,,,2020
+Cities 2020,31148,City of Amsterdam,Netherlands,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,31149,City of Athens,Greece,Europe,,Energy,1,Electricity source,32.3,26.4,10.4,0,5.89,12.77,5.47,0.12,6.65,0,100,2018
+Cities 2020,31150,Bangkok Metropolitan Administration,Thailand,Southeast Asia and Oceania,,Energy,1,Electricity source,17.7,60.2,0.1,0,6.2,6.6,2,0,5.6,1.6,100,2017
+Cities 2020,31153,City of Berlin,Germany,Europe,,Energy,1,Electricity source,56,38,1,0,0,2,0,0,1,2,100,2017
+Cities 2020,31154,Bogotá Distrito Capital,Colombia,Latin America,,Energy,1,Electricity source,3.6,9.33,0.1,,86.01,0.95,0.01,,0.01,,,2017
+Cities 2020,31155,City of Buenos Aires,Argentina,Latin America,,Energy,1,Electricity source,0.33,57.7,1.77,5.92,27.49,0.41,3.73,0,0.6,2.05,100,2019
+Cities 2020,31156,Municipality of Curitiba,Brazil,Latin America,,Energy,1,Electricity source,4.1,10.5,2.5,2.6,65.2,8.2,6.9,,,0,,2017
+Cities 2020,31157,City of Delhi,India,South and West Asia,,Energy,1,Electricity source,58.11,27.9,,1.36,9.76,,,,2.87,2,,2020
+Cities 2020,31163,Istanbul Metropolitan Municipality,Turkey,Europe,,Energy,1,Electricity source,28.4,37.8,1.6,0,25.8,0.7,4.4,1.3,0,0,100,
+Cities 2020,31165,Stadt Heidelberg,Germany,Europe,,Energy,1,Electricity source,28.3,15.1,0.8,12.4,3.3,7.4,20.9,0,7.5,4.3,100,2019
+Cities 2020,31166,Jakarta City Government,Indonesia,Southeast Asia and Oceania,,Energy,1,Electricity source,0,99.94,0.06,0,0,0,0,0,0,0,100,2019
+Cities 2020,31167,City of Lagos,Nigeria,Africa,,Energy,1,Electricity source,,99,,,,,,,1,,,2020
+Cities 2020,31168,City District Government Karachi,Pakistan,South and West Asia,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,31169,Government of Hong Kong Special Administrative Region,"China, Hong Kong Special Administrative Region",East Asia,,Energy,1,Electricity source,44,29.1,0.3,26.6,0,0,0,0,0,0,100,2020
+Cities 2020,31170,Metropolitan Municipality of Lima,Peru,Latin America,,Energy,1,Electricity source,0,40,0,0,54,0,2,0,4,0,100,2019
+Cities 2020,31171,Ayuntamiento de Madrid,Spain,Europe,,Energy,1,Electricity source,14.11,21.13,5.28,20.32,13.41,2.56,18.54,,4.64,,,
+Cities 2020,31172,Mexico City,Mexico,Latin America,,Energy,1,Electricity source,31,48,21,0,0,0,0,0,0,0,100,2018
+Cities 2020,31173,Comune di Milano,Italy,Europe,,Energy,1,Electricity source,10.4,44.9,3.7,0,11.6,6.2,5.7,2,7.8,7.7,100,
+Cities 2020,31174,Moscow Government,Russian Federation,Europe,,Energy,1,Electricity source,0,99.25,0,0,0.12,0.2,,,0.02,0.38,,2018
+Cities 2020,31175,City of Paris,France,Europe,,Energy,1,Electricity source,1.1,5.7,0.3,71.7,12.4,1.7,5.1,0,2,0,100,2018
+Cities 2020,31176,Prefeitura do Rio de Janeiro,Brazil,Latin America,,Energy,1,Electricity source,2.2,7.5,0.8,2.6,71.1,4.8,9.6,0,0.9,0.5,100,2019
+Cities 2020,31177,Salt Lake City,United States of America,North America,,Energy,1,Electricity source,58.89,10.57,0,0,7.09,0.37,8.56,0.39,3.54,10.59,100,
+Cities 2020,31179,Gemeente Rotterdam,Netherlands,Europe,,Energy,1,Electricity source,86.6,8.2,0.5,0,0,3,1.5,0,0.1,0.1,100,2018
+Cities 2020,31180,Región Metropolitana de Santiago,Chile,Latin America,,Energy,1,Electricity source,18.79,15.32,15.57,0,28.4,1.9,8.16,0.16,11.7,0,100,2020
+Cities 2020,31181,City of Philadelphia,United States of America,North America,,Energy,1,Electricity source,17.6,38,0.2,39.7,0.9,1.9,1,0,0.4,0.3,100,2016
+Cities 2020,31182,City of San Francisco,United States of America,North America,,Energy,1,Electricity source,0,8,0,18,37,2,14,4,10,7,100,2018
+Cities 2020,31184,Prefeitura de São Paulo,Brazil,Latin America,,Energy,1,Electricity source,3.2,8.6,2.4,2.5,66.6,8.5,7.6,0,0.5,0.1,100,
+Cities 2020,31185,City of Warsaw,Poland,Europe,,Energy,1,Electricity source,85,3.58,0,0,0.68,1.45,8.86,0,0.04,0.39,100,
+Cities 2020,31186,Changwon City,Republic of Korea,East Asia,,Energy,1,Electricity source,78.9,0.5,0,0,15.7,0.48,0,2.18,2.24,0,100,
+Cities 2020,31187,Seoul Metropolitan Government,Republic of Korea,East Asia,,Energy,1,Electricity source,40.7,24.9,0.7,26.3,0.6,0.2,0,0,1.3,5.3,100,2019
+Cities 2020,31446,Taipei City Government,"Taiwan, Greater China",East Asia,,Energy,1,Electricity source,37.3,38.2,1.9,13.4,3.7,1.2,0.8,0,1.7,1.8,100,2019
+Cities 2020,32480,City of Adelaide,Australia,Southeast Asia and Oceania,,Energy,1,Electricity source,0,47.4,1,0,0,0,39.5,0,11.6,0.3,99.8,2019
+Cities 2020,32550,City of Denver,United States of America,North America,,Energy,1,Electricity source,39,33,0,0,1,0,24,0,3,0,100,2018
+Cities 2020,35268,City of Boston,United States of America,North America,,Energy,1,Electricity source,1,49,1,30,8,,3,,,8,,2018
+Cities 2020,35274,"City of Portland, ME",United States of America,North America,,Energy,1,Electricity source,0.05,48.5,0.02,30.5,9,2.5,3.6,0,1.7,4.13,100,2020
+Cities 2020,35393,City of St Louis,United States of America,North America,,Energy,1,Electricity source,,13,5,,,,,,,82,,
+Cities 2020,35449,Stadt Zürich,Switzerland,Europe,,Energy,1,Electricity source,0,0,0,6.37,75.92,2.51,2.43,0,1.26,11.51,100,2018
+Cities 2020,35475,City of Calgary,Canada,North America,,Energy,1,Electricity source,42.05,47.91,,,2.26,2.4,4.95,,0.026,0.4,,
+Cities 2020,35755,Village of Kadiovacik,Turkey,Europe,,Energy,1,Electricity source,23,28,0,0,32,0,10,2,3,2,100,2020
+Cities 2020,35848,Municipality of Belo Horizonte,Brazil,Latin America,,Energy,1,Electricity source,3.3,9.3,2,2.5,64.9,8.4,8.6,0,1,0,100,2019
+Cities 2020,35853,City of Baltimore,United States of America,North America,,Energy,1,Electricity source,31.13,28.68,0.21,34.53,1.5,0.99,2.63,0,0.26,0.07,100,
+Cities 2020,35854,City of Brussels,Belgium,Europe,,Energy,1,Electricity source,37.3,,,46.5,1.2,37.3,10.2,,4.2,0.5,,2019
+Cities 2020,35857,City of Cincinnati,United States of America,North America,,Energy,1,Electricity source,64.5,10.8,0.6,19.8,0.6,0.6,2.3,0,0.1,0.7,100,
+Cities 2020,35858,City of Cape Town,South Africa,Africa,,Energy,1,Electricity source,89.6,0.015,0.401,4.699,0.54,0.015,2.874,0,1.794,0.062,100,2018
+Cities 2020,35859,City of Cleveland,United States of America,North America,,Energy,1,Electricity source,34.85,25.34,0.03,30.47,5.74,0.38,2.28,0,0.02,0.89,100,2018
+Cities 2020,35860,City of Dallas,United States of America,North America,,Energy,1,Electricity source,20,47,0.1,11,0.1,0.1,20,0,1.2,0.5,100,2019
+Cities 2020,35862,City of Detroit,United States of America,North America,,Energy,1,Electricity source,60.8,7.89,0.21,22.87,0.14,1.2,6.36,0,0.06,0.47,100,
+Cities 2020,35863,eThekwini Municipality,South Africa,Africa,,Energy,1,Electricity source,88,2,0,5,0,0,3,0,2,0,100,
+Cities 2020,35864,Ekurhuleni Metropolitan Municipality,South Africa,Africa,,Energy,1,Electricity source,,,0,0,0,0,0,0,,0,,2020
+Cities 2020,35865,Municipality of Fortaleza,Brazil,Latin America,,Energy,1,Electricity source,2.2,7.7,5.8,1.18,60.76,8.71,7.81,0,0.77,5.07,100,2019
+Cities 2020,35867,Region Metropolitana de Guadalajara,Mexico,Latin America,,Energy,1,Electricity source,,53.2,25.75,4.3,10.2,0.2,3.9,1.7,0.7,0.5,,2020
+Cities 2020,35870,City of Miami,United States of America,North America,,Energy,1,Electricity source,2.1,72.3,0.3,22.3,0,0,0,0,1.5,1.5,100,2018
+Cities 2020,35872,Municipality of Recife,Brazil,Latin America,,Energy,1,Electricity source,2.8,30.2,4.1,2.6,51.2,0.9,5.1,0,0,3.1,100,2019
+Cities 2020,35873,Municipality of Medellín,Colombia,Latin America,,Energy,1,Electricity source,8.2,9.4,11.3,,66.3,,0.1,,,4.8,,
+Cities 2020,35874,City of Phoenix,United States of America,North America,,Energy,1,Electricity source,26.7,41.1,0,18.8,3.4,0.4,1.8,3.4,4.4,0,100,
+Cities 2020,35877,City of Pittsburgh,United States of America,North America,,Energy,1,Electricity source,22,8.3,,69.4,0.3,,,,,,,
+Cities 2020,35878,City of Sacramento,United States of America,North America,,Energy,1,Electricity source,0,41,0,0,14,12,7,1,3,23,101,
+Cities 2020,35879,City of Minneapolis,United States of America,North America,,Energy,1,Electricity source,23,23,0,28,6,2,15,0,3,0,100,2019
+Cities 2020,35880,Municipality of Porto Alegre,Brazil,Latin America,,Energy,1,Electricity source,0.02,0.083,0.051,0.011,0.604,0.084,0.087,,0.016,0.045,,2020
+Cities 2020,35883,City of San José,United States of America,North America,,Energy,1,Electricity source,0,0,0,0,36,5,10,2,30,17,100,2019
+Cities 2020,35884,City of San Diego,United States of America,North America,,Energy,1,Electricity source,,29,,,,2,21,,20,28,,2018
+Cities 2020,35885,Tel Aviv-Yafo Municipality,Israel,Middle East,,Energy,1,Electricity source,25,70,,,,,0.7,,4.3,,,2019
+Cities 2020,35886,Comune di Torino,Italy,Europe,,Energy,1,Electricity source,10,45,1,4,17,7,6,2,8,0,100,2018
+Cities 2020,35893,City of Dar es Salaam,United Republic of Tanzania,Africa,,Energy,1,Electricity source,0.25,5,8,0,1.5,85,0,0,0.25,0,100,2020
+Cities 2020,35894,Ville de Montreal,Canada,North America,,Energy,1,Electricity source,0,0.03,0,0.36,93.34,0.88,5.37,0,0,0.02,100,2019
+Cities 2020,35897,Municipality of Campinas,Brazil,Latin America,,Energy,1,Electricity source,2.4,9.6,1.3,2.6,63.5,8.3,8.9,0,1.1,2.3,100,2019
+Cities 2020,35898,Greater Manchester,United Kingdom of Great Britain and Northern Ireland,Europe,,Energy,1,Electricity source,35.4,28.2,1,22.3,1.3,4.7,5.3,0.8,1,0,100,
+Cities 2020,35903,Le Grand Casablanca,Morocco,Africa,,Energy,1,Electricity source,21.7,5,62,0,0.5,6.5,0.6,0.6,0.6,2.5,100,
+Cities 2020,35905,Corporation of Chennai,India,South and West Asia,,Energy,1,Electricity source,52.5,3.4,0,5.9,4.6,0.6,7.6,0,1.2,24.2,100,
+Cities 2020,35907,Bangalore,India,South and West Asia,,Energy,1,Electricity source,85,,,,15,,5,,5,,,
+Cities 2020,35913,City of Nairobi,Kenya,Africa,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,35993,Singapore Government,Singapore,Southeast Asia and Oceania,,Energy,1,Electricity source,1.08,95.74,0.15,0,0,2.39,0,0,0.57,0.07,100,2020
+Cities 2020,36002,Ville de Kinshasa,Democratic Republic of the Congo,Africa,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,36004,City of Abidjan,Côte d'Ivoire,Africa,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,36032,Ville de Dakar,Senegal,Africa,,Energy,1,Electricity source,75,1,,,,,,,,24,,2016
+Cities 2020,36036,City of Ibadan,Nigeria,Africa,,Energy,1,Electricity source,0,15,35,0,40,0,0,5,5,,,
+Cities 2020,36037,Santiago de Cali,Colombia,Latin America,,Energy,1,Electricity source,,,,,95,,,,5,,,
+Cities 2020,36039,Accra Metropolitan Assembly,Ghana,Africa,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,36043,Abuja Federal Capital Territory,Nigeria,Africa,,Energy,1,Electricity source,0,15,0,0,70,9,2,0,4,0,100,2019
+Cities 2020,36044,Seferihisar Municipality,Turkey,Europe,,Energy,1,Electricity source,,,,0,,0,,,,,,
+Cities 2020,36152,Tallinn City Council,Estonia,Europe,,Energy,1,Electricity source,0,20,0,0,0,40,3,0,2,35,100,2019
+Cities 2020,36158,Comune di Napoli,Italy,Europe,,Energy,1,Electricity source,0,22,16,0,0,0,0,0,1,61,100,
+Cities 2020,36159,City of Lisbon,Portugal,Europe,,Energy,1,Electricity source,26,33,0,0,10,5,23,0,2,1,100,
+Cities 2020,36223,Antananarivo,Madagascar,Africa,,Energy,1,Electricity source,,,80,0,20,0,0,0,0,,,2019
+Cities 2020,36254,Comune di Venezia,Italy,Europe,,Energy,1,Electricity source,12,44,1,0,15,7,6,2,8,5,100,
+Cities 2020,36261,Comune di Bolzano,Italy,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,36262,Comune di Genova,Italy,Europe,,Energy,1,Electricity source,,4.228471,,,,,,,8.5,,,2019
+Cities 2020,36274,Comune di Bologna,Italy,Europe,,Energy,1,Electricity source,0,74,0,0,4.16,12.27,0.16,0,9.41,0,100,2017
+Cities 2020,36282,Comune di Chieti,Italy,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,36285,Comune di Firenze,Italy,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,36286,Comune di Ferrara,Italy,Europe,,Energy,1,Electricity source,23.7,33.1,1,4.2,20,5,0,1,8,0,96,
+Cities 2020,36410,City of Memphis,United States of America,North America,,Energy,1,Electricity source,24,20,0,37,9,0,1,0,2,7,100,2016
+Cities 2020,36426,Riga City,Latvia,Europe,,Energy,1,Electricity source,0,98.04,0,0,0,1.62,0,0,0,0.34,100,2019
+Cities 2020,36469,Comune dell'Aquila,Italy,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,36470,Comune della Spezia,Italy,Europe,,Energy,1,Electricity source,,43.38,,,,,,,,,,
+Cities 2020,36477,Comune di Lucca,Italy,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,36492,Comune di Parma,Italy,Europe,,Energy,1,Electricity source,,,,0,0,0,,,,,,
+Cities 2020,36494,Comune di Padova,Italy,Europe,,Energy,1,Electricity source,11,48.3,3.9,0,12.8,6.6,6,2.1,8.2,1.1,100,2017
+Cities 2020,36501,Comune di Prato,Italy,Europe,,Energy,1,Electricity source,12.47,39.06,0.54,4.11,17.53,6.83,6.22,2.17,8.08,2.99,100,2018
+Cities 2020,36504,Comune di Rimini,Italy,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,37241,City of Berkeley,United States of America,North America,,Energy,1,Electricity source,0,6,0,13,12,2,27,2,28,10,100,2018
+Cities 2020,37261,City of Pietermaritzburg,South Africa,Africa,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,42120,City of Salvador,Brazil,Latin America,,Energy,1,Electricity source,5,6,7,,54,3,13,,12,,,2018
+Cities 2020,42123,City of Goiânia,Brazil,Latin America,,Energy,1,Electricity source,0,0,8,0,90,0,0,0,0,2,100,
+Cities 2020,42178,Distrito Metropolitano de Quito,Ecuador,Latin America,,Energy,1,Electricity source,0,,9.9,0,90,0.1,0,0,0,0,,2019
+Cities 2020,42384,Göteborgs Stad,Sweden,Europe,,Energy,1,Electricity source,0.23,0.55,0.19,40.94,38.94,3.13,9.94,0,0.24,5.84,100,2018
+Cities 2020,42388,Intendencia de Montevideo,Uruguay,Latin America,,Energy,1,Electricity source,0,0,0,0,58.84,26.97,13.33,0,0.85,,,2018
+Cities 2020,43905,City of San Antonio,United States of America,North America,,Energy,1,Electricity source,22.4,32.9,0,29.8,0,0,7.5,0,7.4,,,2019
+Cities 2020,43907,City of Indianapolis,United States of America,North America,,Energy,1,Electricity source,43,45,2,0,0,0,8,0,2,0,100,2019
+Cities 2020,43908,City of Milwaukee,United States of America,North America,,Energy,1,Electricity source,56,7,6.84,12,12,2.4,3.2,0,0.56,,,
+Cities 2020,43909,City of Orlando,United States of America,North America,,Energy,1,Electricity source,50,41,0,7,0,0,0,0,2,0,100,
+Cities 2020,43910,City of Columbus,United States of America,North America,,Energy,1,Electricity source,49.8,16.7,0.4,27.6,0.9,0.6,3.2,0,0.1,0.7,100,2017
+Cities 2020,43911,City of Ottawa,Canada,North America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,43912,City of Edmonton,Canada,North America,,Energy,1,Electricity source,35,46,0,0,5,0,11,0,0,3,100,2019
+Cities 2020,43914,City of Charlotte,United States of America,North America,,Energy,1,Electricity source,31.3,12.7,0.1,54.5,1.4,0,0,0,0,0,100,2019
+Cities 2020,43917,Sofia Municipality,Bulgaria,Europe,,Energy,1,Electricity source,68.37,0.43,0,16.27,9.72,0.82,1.43,0,2.67,0.29,100,2019
+Cities 2020,43920,City of Ljubljana,Slovenia,Europe,,Energy,1,Electricity source,47,12,0,38,0.9,0.16,0.32,0.4,0.22,1,100,
+Cities 2020,43926,City of Mannheim,Germany,Europe,,Energy,1,Electricity source,9,44,33,3,1,2,4,0,2,0,98,2020
+Cities 2020,43928,Canberra,Australia,Southeast Asia and Oceania,,Energy,1,Electricity source,0,0,0,0,4,0,71,0,25,0,100,2020
+Cities 2020,43930,The Hague,Netherlands,Europe,,Energy,1,Electricity source,35,63,,0.13,,0.43,0.48,,0.96,,,
+Cities 2020,43932,Auckland Council,New Zealand,Southeast Asia and Oceania,,Energy,1,Electricity source,3.4,12.5,0,0,60.5,0.6,4.8,17.2,0.2,0.8,100,2018
+Cities 2020,43934,City of Perth,Australia,Southeast Asia and Oceania,,Energy,1,Electricity source,26.8,60.2,5.3,0,0.5,0.3,3.9,0,3,0,100,2018
+Cities 2020,43937,Wellington City Council,New Zealand,Southeast Asia and Oceania,,Energy,1,Electricity source,4,10,,,61,2,6,17,,,,2019
+Cities 2020,43938,"The Executive Council, Govt of Dubai",United Arab Emirates,Middle East,,Energy,1,Electricity source,0,93.8,0,0,0,0,0,0,6.2,0,100,2019
+Cities 2020,43940,Malmö Stad,Sweden,Europe,,Energy,1,Electricity source,0.41,23.04,0.14,21.7,22.12,9.57,18.61,0,0.01,4.4,100,
+Cities 2020,43970,Alcaldía Distrital de Barranquilla,Colombia,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,43975,Municipalidad de Magdalena del Mar,Peru,Latin America,,Energy,1,Electricity source,,50,,,30,,10,,5,,,
+Cities 2020,44077,Kampala City,Uganda,Africa,,Energy,1,Electricity source,,,47,,17,36,,,,,,
+Cities 2020,44080,City of Kitakyushu,Japan,East Asia,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,44081,Lusaka City Council,Zambia,Africa,,Energy,1,Electricity source,10,3.5,0,0,80.8,2.7,0,0,3,0,100,2019
+Cities 2020,44185,Suwon City,Republic of Korea,East Asia,,Energy,1,Electricity source,45.4,16.9,,30.3,0.44,0.99,0.29,,0.94,4.74,,2017
+Cities 2020,44191,Ansan City,Republic of Korea,East Asia,,Energy,1,Electricity source,0,0,0,0,0,0,0,0,0,0,0,
+Cities 2020,44196,Hwaseong Metropolitan Government,Republic of Korea,East Asia,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,44205,Gwangmyeong City,Republic of Korea,East Asia,,Energy,1,Electricity source,,95,,,,,,,5,,,2020
+Cities 2020,44210,Yeosu Metropolitan Government,Republic of Korea,East Asia,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,44299,Dangjin City,Republic of Korea,East Asia,,Energy,1,Electricity source,80,15,0,0,0,0,0,0,0,5,100,2017
+Cities 2020,45219,Município de Aparecida,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,46263,Amdavad Municipal Corporation (Ahmedabad),India,South and West Asia,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,46470,Ayuntamiento de Vitoria-Gasteiz,Spain,Europe,,Energy,1,Electricity source,4.3,30.3,1.2,22.6,10,3,21.5,0,5.7,1.4,100,2019
+Cities 2020,46473,City of Zaragoza,Spain,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,46514,City of Porto,Portugal,Europe,,Energy,1,Electricity source,24.68,31.79,2.15,0,12.84,5.42,20.61,0.36,1.67,0.48,100,2017
+Cities 2020,49172,City of St. Petersburg,United States of America,North America,,Energy,1,Electricity source,33,42,0,18,5,,,,2,,,
+Cities 2020,49327,City of Providence,United States of America,North America,,Energy,1,Electricity source,6.8,35.1,4.5,22.6,2.6,0.1,6.8,0,2.7,18.8,100,2019
+Cities 2020,49330,Kansas City,United States of America,North America,,Energy,1,Electricity source,40,26,0,7,0,0,21,0,6,0,100,2020
+Cities 2020,49333,"City of Louisville, KY",United States of America,North America,,Energy,1,Electricity source,60,37,0,0,3,0,0,0,0,0,100,
+Cities 2020,49334,"City of Richmond, VA",United States of America,North America,,Energy,1,Electricity source,9.3,52.6,1,30.9,0.5,4.9,0,0,0.8,0,100,2018
+Cities 2020,49335,Metropolitan Government of Nashville and Davidson County,United States of America,North America,,Energy,1,Electricity source,24,20,0,37,9,0,1.5,0,1.5,7,100,2019
+Cities 2020,49339,City and County of Honolulu,United States of America,North America,,Energy,1,Electricity source,18.6,0,64,0,0,0,2.6,0,8.9,5.9,100,2017
+Cities 2020,49342,City of Rochester,United States of America,North America,,Energy,1,Electricity source,1,8,2,41,40,,7,,,3,,2019
+Cities 2020,49345,City of Birmingham,United States of America,North America,,Energy,1,Electricity source,100,,,,,,,,,,,2020
+Cities 2020,49347,City of Omaha,United States of America,North America,,Energy,1,Electricity source,65.96,3.12,0.03,27.42,3.47,0,0,0,0,0,100,
+Cities 2020,49360,City of Tshwane,South Africa,Africa,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,49362,Ulaanbaatar City,Mongolia,East Asia,,Energy,1,Electricity source,100,0,0,0,0,0,0,0,0,0,100,2020
+Cities 2020,49367,Freetown City,Sierra Leone,Africa,,Energy,1,Electricity source,,,42,,58,,,,,,,2018
+Cities 2020,49389,Kyoto,Japan,East Asia,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,50154,City of Turku,Finland,Europe,,Energy,1,Electricity source,21,3.8,0.2,16.7,28.1,12.6,2.7,0,0,14.9,100,2015
+Cities 2020,50203,Gaziantep Metropolitan Municipality,Turkey,Europe,,Energy,1,Electricity source,30,56,0,0,0,0,0,0,0,14,100,
+Cities 2020,50208,Adana Metropolitan Municipality,Turkey,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,50220,Métropole Nice Côte d'Azur,France,Europe,,Energy,1,Electricity source,1.4,6.6,0.6,72.3,12,1.6,3.9,,1.6,,,2016
+Cities 2020,50354,Alcaldía de Tegucigalpa,Honduras,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,50356,Ayuntamiento de Morelia,Mexico,Latin America,,Energy,1,Electricity source,,1,30,,,,,,10,,,
+Cities 2020,50357,Ciudad de Mendoza,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,50358,Gobierno Municipal de Toluca de Lerdo,Mexico,Latin America,,Energy,1,Electricity source,,,,,100,,,,,,,2010
+Cities 2020,50359,Gobierno Municipal de León de los Aldamas,Mexico,Latin America,,Energy,1,Electricity source,1.22,84.93,4.63,0,0,6.35,0,0,2.87,0,100,2018
+Cities 2020,50361,Ayuntamiento de Hermosillo,Mexico,Latin America,,Energy,1,Electricity source,0,59,0,0,0,1,0,0,40,0,100,2019
+Cities 2020,50364,Municipalidad de La Paz,Bolivia (Plurinational State of),Latin America,,Energy,1,Electricity source,,68.15,1.5,,28,1,0.1,,,,,2013
+Cities 2020,50365,Municipalidad  de Valparaíso,Chile,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,50368,Municipalidad de Provincial de Arequipa,Peru,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,50370,Municipalidad de Tampico,Mexico,Latin America,,Energy,1,Electricity source,6,5,68,4,12,0,1,3,1,0,100,2015
+Cities 2020,50375,Ayuntamiento de Chihuahua,Mexico,Latin America,,Energy,1,Electricity source,,,,0,,,,0,,,,
+Cities 2020,50377,Municipio de Querétaro,Mexico,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,50378,Municipalidad de San José,Costa Rica,Latin America,,Energy,1,Electricity source,0,0,0.85,0,69.18,0.64,15.88,13.37,0.08,0,100,2019
+Cities 2020,50380,Municipio de Bucaramanga,Colombia,Latin America,,Energy,1,Electricity source,7,12,10,0,70,0,0,0,0,,,
+Cities 2020,50381,Municipio de Torreón,Mexico,Latin America,,Energy,1,Electricity source,0,0,70,0,15,0,0,0,15,0,100,2020
+Cities 2020,50383,Prefeitura de Sorocaba,Brazil,Latin America,,Energy,1,Electricity source,4.1,10.5,2.5,2.5,65.3,8.2,6.8,0,0.1,0,100,2017
+Cities 2020,50384,Prefeitura de Florianópolis,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,50385,Prefeitura de Campo Grande,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,50386,Prefeitura de Cuiabá,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,50387,Prefeitura de Guarulhos,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,50389,Prefeitura de Maceió,Brazil,Latin America,,Energy,1,Electricity source,,10,,,90,,,,,,,2020
+Cities 2020,50392,Prefeitura de Vitória,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,50394,Prefeitura Municipal de João Pessoa,Brazil,Latin America,,Energy,1,Electricity source,2.2147,7.7441,5.8967,1.1855,60.8352,8.6988,7.6921,0,0.7783,4.9546,100,
+Cities 2020,50398,Ciudad de Juárez,Mexico,Latin America,,Energy,1,Electricity source,0,100,0,0,0,0,0,0,0,0,100,2019
+Cities 2020,50540,City of Albuquerque,United States of America,North America,,Energy,1,Electricity source,28,30,5,15,0,0,13,0.5,8.5,0,100,2019
+Cities 2020,50541,City of Greensboro,United States of America,North America,,Energy,1,Electricity source,33,10,0,51,3.5,0,0.1,0.1,0.3,2,100,2013
+Cities 2020,50543,Halifax Regional Municipality,Canada,North America,,Energy,1,Electricity source,57.8,9.9,4.7,0,10.8,4.1,12.7,0,0,0,100,2018
+Cities 2020,50544,"City of Aurora, IL",United States of America,North America,,Energy,1,Electricity source,8,56,36,0,0,0,0,0,0,0,100,
+Cities 2020,50545,City of Henderson,United States of America,North America,,Energy,1,Electricity source,7.53,75.36,0,0.3,2.44,0.34,1.81,6.58,5.62,0.02,100,2019
+Cities 2020,50549,City of Fort Worth,United States of America,North America,,Energy,1,Electricity source,20,47.3,0,11,0.3,0.2,20,0,1.2,0,100,
+Cities 2020,50550,City of Buffalo,United States of America,North America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,50551,City of Long Beach,United States of America,North America,,Energy,1,Electricity source,0,20,0,6,9,0,10,8,13,34,100,
+Cities 2020,50555,City of Hamilton,Canada,North America,,Energy,1,Electricity source,0,6,0,61,25,0.5,7,0,0.5,0,100,2018
+Cities 2020,50558,"City of London, ON",Canada,North America,,Energy,1,Electricity source,0,6.2,0,58.4,23.9,0.5,8,0,2.3,,,2018
+Cities 2020,50559,"City of St Catharines, ON",Canada,North America,,Energy,1,Electricity source,0,3,1,60,26,1,7,0,2,0,100,2018
+Cities 2020,50560,City of Oakland,United States of America,North America,,Energy,1,Electricity source,0,20,0,27,21,4,8,5,13,2,100,
+Cities 2020,50565,City of Toledo,United States of America,North America,,Energy,1,Electricity source,59,40,0,0,0,0,0,0,1,0,100,
+Cities 2020,50566,City of Anchorage,United States of America,North America,,Energy,1,Electricity source,0,86.3,0,0,10.9,0,1.4,0,0,1.4,100,2018
+Cities 2020,50568,City of Saskatoon,Canada,North America,,Energy,1,Electricity source,31,45,0,0,18,0,5,0,0,1,100,2019
+Cities 2020,50571,City of Victoria,Canada,North America,,Energy,1,Electricity source,0,2,0,0,96,2,0,0,0,0,100,
+Cities 2020,50572,"City of Saint Paul, MN",United States of America,North America,,Energy,1,Electricity source,26,33,0,13,0,4,21,0,3,0,100,2019
+Cities 2020,50578,City of Windsor,Canada,North America,,Energy,1,Electricity source,0,6,0,61,25,0.5,7,0,0.5,0,100,2019
+Cities 2020,50650,City of Gibraltar,Gibraltar,Europe,,Energy,1,Electricity source,,,99.8,,,,,,0.2,,,2018
+Cities 2020,50665,Município de Ovar,Portugal,Europe,,Energy,1,Electricity source,23,19,32,,26,,,,,,,
+Cities 2020,50671,Município de Fafe,Portugal,Europe,,Energy,1,Electricity source,0,0,0,0,2,0,98,0,0,0,100,
+Cities 2020,50673,Município de Faro,Portugal,Europe,,Energy,1,Electricity source,0,0,0,0,0,0,88,0,11,1,100,
+Cities 2020,50674,Município de Viseu,Portugal,Europe,,Energy,1,Electricity source,0,0,0,0,14.3,6,22.9,0.4,1.9,0,45.5,2018
+Cities 2020,50678,Município de Évora,Portugal,Europe,,Energy,1,Electricity source,1.248,5.304,9.56,,,,,,,,,2019
+Cities 2020,50679,Município de Barreiro,Portugal,Europe,,Energy,1,Electricity source,,,,0,,,0,0,0,,,2019
+Cities 2020,50680,Município de Cascais,Portugal,Europe,,Energy,1,Electricity source,7,1,10,2,13,2,52,0,6,0,93,
+Cities 2020,50681,Município de Funchal,Portugal,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,50782,Dhaka City,Bangladesh,South and West Asia,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,50792,Ville de Monaco,Monaco,Europe,,Energy,1,Electricity source,1.5,2.7,1,86.3,6.6,0,0,0,1.9,0,100,2018
+Cities 2020,50794,Prefeitura Municipal de Caieiras,Brazil,Latin America,,Energy,1,Electricity source,,,,4,75,19,2,,,,,
+Cities 2020,51075,City of Shenzhen,China,East Asia,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,51079,Guatemala City,Guatemala,Latin America,,Energy,1,Electricity source,24.2,0,3.8,,56.6,0,2,2.3,1.5,9.3,,2020
+Cities 2020,51374,Prefeitura de Rio Branco,Brazil,Latin America,,Energy,1,Electricity source,,,100,,,,,,,,,
+Cities 2020,52638,Prefeitura de Aracaju,Brazil,Latin America,,Energy,1,Electricity source,,,,,100,,,,,,,2019
+Cities 2020,52894,City of Winston-Salem,United States of America,North America,,Energy,1,Electricity source,26,34.26,0.04,34.2,1.5,0,2,0,2,0,100,2019
+Cities 2020,52897,City of Aspen,United States of America,North America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,53254,City of Hobart,Australia,Southeast Asia and Oceania,,Energy,1,Electricity source,,2,,,81,,10,,7,0,,2019
+Cities 2020,53829,"City of Kingston, ON",Canada,North America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,53860,"City of Wilmington, NC",United States of America,North America,,Energy,1,Electricity source,19.1,34.6,0.6,37.8,2.3,2.8,0.4,0,2.2,0.2,100,2019
+Cities 2020,53879,City of Jersey City,United States of America,North America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,53921,"City of Tempe, AZ",United States of America,North America,,Energy,1,Electricity source,40,25,0,25,2,,1,,5,2,,2020
+Cities 2020,53959,"City of Fayetteville, AR",United States of America,North America,,Energy,1,Electricity source,30.9,40,1.7,0,2.8,1.4,22.4,0,0.4,0.4,100,2018
+Cities 2020,54026,City of Tacoma,United States of America,North America,,Energy,1,Electricity source,1.5,1,0,6,84,0,7,0,0,0.5,100,
+Cities 2020,54029,City of Spokane,United States of America,North America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,54034,City of Grand Rapids,United States of America,North America,,Energy,1,Electricity source,32.1,33.5,0.1,20.9,1.5,0.1,8.4,,0.1,3.3,,2018
+Cities 2020,54037,City of Des Moines,United States of America,North America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,54048,City of Knoxville,United States of America,North America,,Energy,1,Electricity source,19,26,0,39,11,0,1.5,0,1.5,2,100,2020
+Cities 2020,54060,City of Greater Sudbury / Grand Sudbury,Canada,North America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,54070,City of Eugene,United States of America,North America,,Energy,1,Electricity source,0,0,0,8.8,87.4,0,0.8,0,0,3,100,
+Cities 2020,54075,City of Lakewood,United States of America,North America,,Energy,1,Electricity source,33,37,0,0,1,0,25,0,4,0,100,2019
+Cities 2020,54078,City of Hayward,United States of America,North America,,Energy,1,Electricity source,0,20,0,27,21,4,8,5,13,2,100,2017
+Cities 2020,54082,"City of Hollywood, FL",United States of America,North America,,Energy,1,Electricity source,2.1,72.3,0.3,22.3,0,0,0,0,1.5,1.5,100,2019
+Cities 2020,54085,City of Savannah,United States of America,North America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,54088,City of Peterborough,Canada,North America,,Energy,1,Electricity source,0,28,0,35,23,1,12,0,1,0,100,2019
+Cities 2020,54092,City of Ann Arbor,United States of America,North America,,Energy,1,Electricity source,62.73,6.49,0.21,22.13,0.21,1.05,6.42,0,0.17,0.59,100,2018
+Cities 2020,54098,City of Thunder Bay,Canada,North America,,Energy,1,Electricity source,0,29,0,34,23,1,12,0,1,0,100,2019
+Cities 2020,54100,"City of Columbia, MO",United States of America,North America,,Energy,1,Electricity source,82.99,1.31,0,0,0,0,12.34,0,0.12,3.24,100,2015
+Cities 2020,54102,City of Albany,United States of America,North America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,54104,City of Boulder,United States of America,North America,,Energy,1,Electricity source,39.1,32.7,0,0,1.4,0,23.5,0,3.3,0,100,2018
+Cities 2020,54108,City of Durham,United States of America,North America,,Energy,1,Electricity source,26,30,0,32,4,4,0,0,4,0,100,
+Cities 2020,54109,City of Bloomington,United States of America,North America,,Energy,1,Electricity source,79.2,4.9,0,0,0.6,0,0,0,0.8,14.5,100,
+Cities 2020,54110,City of Santa Monica,United States of America,North America,,Energy,1,Electricity source,0,0,,0,0,0,0,0,100,0,,
+Cities 2020,54111,City of Iowa City,United States of America,North America,,Energy,1,Electricity source,45.3,2.1,0,13,0,0.2,39.4,0,0,0,100,
+Cities 2020,54113,City of Flagstaff,United States of America,North America,,Energy,1,Electricity source,28,31.4,0,29.8,6.6,0.2,0.5,0,3.4,0.1,100,
+Cities 2020,54114,City of Asheville,United States of America,North America,,Energy,1,Electricity source,10.5,40.4,0.1,31.6,7.3,0,0,3,7.1,,,2020
+Cities 2020,54116,City of Dubuque,United States of America,North America,,Energy,1,Electricity source,37.84,48.43,0.02,0,1,0,12.68,0,0.03,0,100,2020
+Cities 2020,54119,City of Palo Alto,United States of America,North America,,Energy,1,Electricity source,0,0,0,0,40,11,11,0,17,21,100,
+Cities 2020,54124,City of Fremont,United States of America,North America,,Energy,1,Electricity source,0,15,0,34,15,4,10,4,18,0,100,2018
+Cities 2020,54253,Wollongong City Council,Australia,Southeast Asia and Oceania,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,54265,City of Newcastle,Australia,Southeast Asia and Oceania,,Energy,1,Electricity source,78.92,0.2,,,5.03,1.6,5.25,,5.6,,,2019
+Cities 2020,54268,Dunedin City Council,New Zealand,Southeast Asia and Oceania,,Energy,1,Electricity source,6,19,33,0,11,6,12.5,0,12.5,0,100,2018
+Cities 2020,54274,Rotorua Lakes Council,New Zealand,Southeast Asia and Oceania,,Energy,1,Electricity source,,22,,,56,,3,19,,,,
+Cities 2020,54282,Hangzhou City People's Government,China,East Asia,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,54289,Wuhan Municipal People's Government,China,East Asia,,Energy,1,Electricity source,76,4,0,0,0,0,0,0,0,20,100,2019
+Cities 2020,54290,Qingdao Municipal Government,China,East Asia,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,54291,Chengdu Municipal Government,China,East Asia,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,54293,People's Government of Guangzhou Municipality,China,East Asia,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,54298,Dalian Municipal People's Government,China,East Asia,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,54305,Rajkot Municipal Corporation,India,South and West Asia,,Energy,1,Electricity source,48.8,20.3,0,1.7,2.4,1.6,18.9,0,6.3,0,100,2019
+Cities 2020,54308,Coimbatore City Municipal Corporation,India,South and West Asia,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,54311,Thane Municipal Corporation,India,South and West Asia,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,54317,Dehradun Municipal Corporation,India,South and West Asia,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,54327,Semarang City Government,Indonesia,Southeast Asia and Oceania,,Energy,1,Electricity source,,,,,,,,,,100,,2019
+Cities 2020,54329,Bogor City Government,Indonesia,Southeast Asia and Oceania,,Energy,1,Electricity source,0,0,0,0,100,0,0,0,0,0,100,
+Cities 2020,54337,Greater Amman Municipality,Jordan,Middle East,,Energy,1,Electricity source,0,87.9,2.8,0,0.1,0,3.7,0,4.4,1,99.9,2018
+Cities 2020,54341,Toyama City,Japan,East Asia,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,54345,City Government of Davao,Philippines,Southeast Asia and Oceania,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,54348,The Local Government of Quezon City,Philippines,Southeast Asia and Oceania,,Energy,1,Electricity source,25.77,11.92,38.15,0,12.57,0.8,1.48,6.65,2.66,0,100,2016
+Cities 2020,54349,Balikpapan City Government,Indonesia,Southeast Asia and Oceania,,Energy,1,Electricity source,0,2.04,51.48,0,0,0,0,0,46.48,0,100,2015
+Cities 2020,54360,Shah Alam City Council,Malaysia,Southeast Asia and Oceania,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,54364,City of Kuala Lumpur,Malaysia,Southeast Asia and Oceania,,Energy,1,Electricity source,100,0,0,0,0,0,0,0,0,0,100,2017
+Cities 2020,54386,Tainan City Government,"Taiwan, Greater China",East Asia,,Energy,1,Electricity source,4.4,38.6,36.9,13.5,1.5,,,,5.1,,,
+Cities 2020,54388,Iskandar Regional Development Authority,Malaysia,Southeast Asia and Oceania,,Energy,1,Electricity source,63.3,36.3,0.4,0,0,0,0,0,0,0,100,2017
+Cities 2020,54389,Taichung City Government,"Taiwan, Greater China",East Asia,,Energy,1,Electricity source,29.85,14.97,46.92,6.31,0.36,1.14,0.12,0,0.26,0.07,100,
+Cities 2020,54395,Taoyuan City Government,"Taiwan, Greater China",East Asia,,Energy,1,Electricity source,37.3,38.2,1.9,13.4,2.4,0,0.8,0,1.7,4.3,100,2019
+Cities 2020,54402,City of Lahti,Finland,Europe,,Energy,1,Electricity source,9,6,0.3,32,19,19,9,0,0.2,5.5,100,2018
+Cities 2020,54409,City of Espoo,Finland,Europe,,Energy,1,Electricity source,8,6,0,35,19,18,9,0,0,5,100,2019
+Cities 2020,54459,City of Reykjavík,Iceland,Europe,,Energy,1,Electricity source,0,0,0,0,70,0,0,30,0,0,100,2019
+Cities 2020,54478,Gemeente Nijmegen,Netherlands,Europe,,Energy,1,Electricity source,24,53,0.1,4,0.1,7,5,0,0.2,4,97.4,
+Cities 2020,54488,Trondheim Municipality,Norway,Europe,,Energy,1,Electricity source,0,1,1,0,98,0,0,0,0,0,100,2018
+Cities 2020,54491,Municipality of Málaga,Spain,Europe,,Energy,1,Electricity source,,,,,,,,,,100,,2019
+Cities 2020,54492,Bergen Municipality,Norway,Europe,,Energy,1,Electricity source,0,0,0,0,98,,,,,,,
+Cities 2020,54498,Ayuntamiento de Murcia,Spain,Europe,,Energy,1,Electricity source,5,21.9,13.6,21.2,9,1.7,20.6,0,5.5,1.5,100,2019
+Cities 2020,54510,Umeå municipality,Sweden,Europe,,Energy,1,Electricity source,,,,,89,8,3,,,,,
+Cities 2020,54513,Municipality of Uppsala,Sweden,Europe,,Energy,1,Electricity source,0,0,0,39.3,40.3,0,11,0,0.1,9.3,100,
+Cities 2020,54517,City Örebro,Sweden,Europe,,Energy,1,Electricity source,0,0,0,0,0,0,100,0,0,0,100,2018
+Cities 2020,54519,City of Lund,Sweden,Europe,,Energy,1,Electricity source,0,0,0,39,40,0,11,0,0,10,100,2017
+Cities 2020,54521,BCP Council,United Kingdom of Great Britain and Northern Ireland,Europe,,Energy,1,Electricity source,21,29,2,19,2,4,4,4,10,5,100,2017
+Cities 2020,54529,City of Leicester,United Kingdom of Great Britain and Northern Ireland,Europe,,Energy,1,Electricity source,5.1,39.5,2.9,19.5,1.6,0,21,0,0,10.4,100,
+Cities 2020,54538,Bath and North East Somerset,United Kingdom of Great Britain and Northern Ireland,Europe,,Energy,1,Electricity source,2.1,40.6,0.3,17.3,1.8,11.5,23.9,0,0,2.5,100,2019
+Cities 2020,54579,Sekhukhune District Municipality,South Africa,Africa,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,54603,Alcaldia de Pasto,Colombia,Latin America,,Energy,1,Electricity source,0,0,0,0,0,,0,0,0,,,
+Cities 2020,54611,Alcaldia de Manizales,Colombia,Latin America,,Energy,1,Electricity source,0,0,0,0,100,0,0,0,0,0,100,
+Cities 2020,54613,Alcaldia de Valdivia,Chile,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,54614,Prefeitura da Cidade de São José do Rio Preto,Brazil,Latin America,,Energy,1,Electricity source,0,0,0,0,100,0,0,0,0,0,100,2020
+Cities 2020,54617,Alcaldia de Pereira,Colombia,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,54620,Gobierno Municipal de la Ciudad de Paraná,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,54623,Prefeitura de Betim,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,54625,Prefeitura de Londrina,Brazil,Latin America,,Energy,1,Electricity source,0,0,0,0,100,0,0,0,0,0,100,2016
+Cities 2020,54632,Prefeitura de Caruaru,Brazil,Latin America,,Energy,1,Electricity source,,,,,100,,,,,,,2019
+Cities 2020,54633,Prefeitura de Lorena,Brazil,Latin America,,Energy,1,Electricity source,0,0,0,0,100,0,0,0,0,0,100,
+Cities 2020,54637,Alcaldía de Cuenca,Ecuador,Latin America,,Energy,1,Electricity source,0,12,32,0,11,0,0,0,0,1,56,
+Cities 2020,54641,Prefeitura de Limeira,Brazil,Latin America,,Energy,1,Electricity source,2,3,,,90,2,3,,3,,,
+Cities 2020,54646,Prefeitura de Duque de Caxias,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,54650,Prefeitura de Palmas,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,54652,Prefeitura de Osasco,Brazil,Latin America,,Energy,1,Electricity source,3,9,0,3,68,8,5,0,0,4,100,
+Cities 2020,54662,Prefeitura do Município de Maringá,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,54667,Prefeitura Municipal de Contagem,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,54670,Prefeitura Municipal de Capivari,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,54681,Prefeitura Municipal de Araçatuba,Brazil,Latin America,,Energy,1,Electricity source,,,,,100,,,,,,,
+Cities 2020,54682,Prefeitura Municipal de Petrolina,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,54687,Prefeitura Municipal de São José dos Campos,Brazil,Latin America,,Energy,1,Electricity source,3.6,10.5,3,2.5,65.2,8.2,6.8,0,0.1,0.1,100,
+Cities 2020,54692,Prefeitura Municipal de Sertãozinho,Brazil,Latin America,,Energy,1,Electricity source,0,0,0,0,60.74,8.6,8.63,14.91,3.42,3.7,100,2019
+Cities 2020,54696,XIV Ayuntamiento de La Paz,Mexico,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,54697,Prefeitura Municipal de Cerquilho,Brazil,Latin America,,Energy,1,Electricity source,,,,,100,,,,,,,
+Cities 2020,54700,Prefeitura Municipal de Sumaré,Brazil,Latin America,,Energy,1,Electricity source,3,10,2,3,66,8,6,0,0,2,100,2016
+Cities 2020,54706,Prefeitura Municipal de Boa Vista,Brazil,Latin America,,Energy,1,Electricity source,,,90,,,,,3,7,,,2020
+Cities 2020,55324,Município de Guimarães,Portugal,Europe,,Energy,1,Electricity source,54.26,5.83,0,0,27.66,,,,12.25,,,2015
+Cities 2020,55325,Município de Águeda,Portugal,Europe,,Energy,1,Electricity source,9,6,0,3.3,15.9,0,40.5,0,0,25.3,100,
+Cities 2020,55334,Município de Braga,Portugal,Europe,,Energy,1,Electricity source,20,18,0,0,23,8,22,0,7,2,100,2018
+Cities 2020,55371,Municipalidad de Vicente López,Argentina,Latin America,,Energy,1,Electricity source,2,52,33,3,4,5,0,0,0,1,100,
+Cities 2020,55372,Prefeitura Municipal de Canoas,Brazil,Latin America,,Energy,1,Electricity source,,0.1,,,99.9,,,,,,,
+Cities 2020,55373,Prefeitura Municipal de Cabreúva,Brazil,Latin America,,Energy,1,Electricity source,,,,,100,,,,,,,
+Cities 2020,55419,City of Miramar,United States of America,North America,,Energy,1,Electricity source,2.37,73.61,0.17,21.98,,,,,1.87,,,2019
+Cities 2020,55799,"Arlington, VA",United States of America,North America,,Energy,1,Electricity source,26,24,0,47,0,1,1,0,1,0,100,2007
+Cities 2020,55800,City of Cambridge,United States of America,North America,,Energy,1,Electricity source,1.6,48,0.7,30.8,8.4,2.9,3.2,,0.9,3.5,,
+Cities 2020,55801,City of West Palm Beach,United States of America,North America,,Energy,1,Electricity source,2.36,73.24,0.31,22.64,0,0,0,0,1.45,0,100,2018
+Cities 2020,56276,New Taipei City Government,"Taiwan, Greater China",East Asia,,Energy,1,Electricity source,30.8,35.3,5.4,8.1,5.4,0,1.8,0,7.5,5.7,100,2019
+Cities 2020,57347,Pingtung County Government,"Taiwan, Greater China",East Asia,,Energy,1,Electricity source,46.11,33.23,2.1,11.79,3.19,0.06,0.68,0,1.51,1.33,100,2019
+Cities 2020,57509,Prefeitura de Niterói,Brazil,Latin America,,Energy,1,Electricity source,,0,0,0,100,0,0,0,0,0,,2019
+Cities 2020,57616,"City of Lake Forest, IL",United States of America,North America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,58310,City of Roanoke,United States of America,North America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,58346,Plymouth City Council,United Kingdom of Great Britain and Northern Ireland,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,58357,City of West Hollywood,United States of America,North America,,Energy,1,Electricity source,0,0,0,0,0,0,10,0,90,0,100,2019
+Cities 2020,58391,Maribyrnong City Council,Australia,Southeast Asia and Oceania,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,58395,Bærum Kommune,Norway,Europe,,Energy,1,Electricity source,0.1,1.8,0,0,95,0,2.6,0,0,0.5,100,2018
+Cities 2020,58413,"City of Carmel, IN",United States of America,North America,,Energy,1,Electricity source,44.4,21,0.3,28.3,0.9,0.6,3.6,0,0.1,0.8,100,2018
+Cities 2020,58483,City of Surrey,Canada,North America,,Energy,1,Electricity source,0,2,1,0,90,6,1,0,0,0,100,2018
+Cities 2020,58485,Abington Township,United States of America,North America,,Energy,1,Electricity source,35.2944,24.7756,0.6259,33.7896,0.9233,0.0008,3.7088,0,0.148,0.7336,100,2017
+Cities 2020,58488,Sonderborg Kommune,Denmark,Europe,,Energy,1,Electricity source,24,8,1,2,7,14,42,0,2,0,100,
+Cities 2020,58489,Hoeje-Taastrup Kommune,Denmark,Europe,,Energy,1,Electricity source,13,8,1,5,11,13,45,0,4,0,100,2019
+Cities 2020,58513,City of Medford,United States of America,North America,,Energy,1,Electricity source,0.5,48.5,0.2,30.5,8.9,5.6,3.6,0,1.7,0.5,100,2019
+Cities 2020,58530,"City of Northampton, MA",United States of America,North America,,Energy,1,Electricity source,3.1,40,8.6,10.8,2.9,0,7.1,0,3.2,24.3,100,
+Cities 2020,58531,"City of Somerville, MA",United States of America,North America,,Energy,1,Electricity source,0.5,48.5,0.2,30.5,8.9,2.5,3.6,0,1.7,3.6,100,2019
+Cities 2020,58543,Byron Shire Council,Australia,Southeast Asia and Oceania,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,58569,City of Podgorica,Montenegro,Europe,,Energy,1,Electricity source,51.9,0,0,0,41,3.2,3.9,0,0,0,100,2019
+Cities 2020,58591,"City of Greenbelt, MD",United States of America,North America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,58595,Municipalidad de Belén,Costa Rica,Latin America,,Energy,1,Electricity source,2,3,7,0,76,1,4,2,5,0,100,2017
+Cities 2020,58597,Municipalidad de La Unión,Costa Rica,Latin America,,Energy,1,Electricity source,,,0.85,,69.18,0.64,15.88,13.37,0.08,,,2019
+Cities 2020,58609,City of Ærøskøbing,Denmark,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,58613,City of York Council,United Kingdom of Great Britain and Northern Ireland,Europe,,Energy,1,Electricity source,5.39,40.34,0.51,19.96,2.47,9.84,17.53,,3.96,,,2018
+Cities 2020,58621,Town of Blacksburg,United States of America,North America,,Energy,1,Electricity source,71.99,19.06,0,0,3.96,0,4.99,0,0,0,100,2018
+Cities 2020,58626,"City of Racine, WI",United States of America,North America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,58627,"City of Alton, IL",United States of America,North America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,58668,"City of New Bedford, MA",United States of America,North America,,Energy,1,Electricity source,8,61,2,16,7,3,2,0,1,0,100,
+Cities 2020,58671,Helsingør Kommune / Elsinore Municipality,Denmark,Europe,,Energy,1,Electricity source,27,29,1,31,0,5,6,0,1,0,100,2019
+Cities 2020,58796,Odder Kommune,Denmark,Europe,,Energy,1,Electricity source,70,15,0,0,0,5,10,0,,,,
+Cities 2020,58797,Hørsholm Kommune,Denmark,Europe,,Energy,1,Electricity source,18.7,6,0.8,3.9,11.4,13.2,38.5,0,3.5,4,100,2018
+Cities 2020,58865,Jammerbugt Kommune,Denmark,Europe,,Energy,1,Electricity source,0,,0,0,0,,,0,,,,
+Cities 2020,58871,"City of Salem, MA",United States of America,North America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,59124,"City of Natchez, MS",United States of America,North America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,59151,City of Akureyri,Iceland,Europe,,Energy,1,Electricity source,0,0,0.01,0,69.07,0,0.04,30.88,0,0,100,2019
+Cities 2020,59160,Ville de Nyon,Switzerland,Europe,,Energy,1,Electricity source,0,0,0,0,95.3,2.13,0.15,0,2.42,0,100,
+Cities 2020,59165,Gladsaxe Kommune,Denmark,Europe,,Energy,1,Electricity source,11,7,1,4,7,18,46,0,6,,,2019
+Cities 2020,59166,Municipalidad de Independencia,Chile,Latin America,,Energy,1,Electricity source,55,0,0,0,36,0,5,0,4,0,100,2016
+Cities 2020,59167,Municipalidad de Providencia,Chile,Latin America,,Energy,1,Electricity source,16,18,15,0,39,0,0,0,12,0,100,2019
+Cities 2020,59180,Middelfart Kommune,Denmark,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,59535,"Town of Vail, CO",United States of America,North America,,Energy,1,Electricity source,40,7,0,0,3,7,31,0,1,11,100,2019
+Cities 2020,59536,City of Kitchener,Canada,North America,,Energy,1,Electricity source,0,6.1,0,58.2,24,0.5,8.2,0,2.4,0.6,100,2019
+Cities 2020,59537,"City of Denton, TX",United States of America,North America,,Energy,1,Electricity source,4.22,9.76,0,2.24,0,0.83,78.38,0,4.57,0,100,2019
+Cities 2020,59538,City of Mississauga,Canada,North America,,Energy,1,Electricity source,0,8.2,0,61,23.7,0.6,6.2,0,0.3,0,100,
+Cities 2020,59545,"City of Charlottesville, VA",United States of America,North America,,Energy,1,Electricity source,1.84,63.62,0.37,27.75,1.39,0,0,0,0,5.03,100,2020
+Cities 2020,59550,"City of Bend, OR",United States of America,North America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,59558,"City of Holland, MI",United States of America,North America,,Energy,1,Electricity source,21.2,61.07,0,0,0,0,7.64,0,0,10.09,100,2018
+Cities 2020,59562,"City of Urbana, IL",United States of America,North America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,59563,"City of Takoma Park, MD",United States of America,North America,,Energy,1,Electricity source,29.8,28.7,0.3,35.3,1.4,0.3,3.1,0,0.3,0.8,100,
+Cities 2020,59572,"District of Saanich, BC",Canada,North America,,Energy,1,Electricity source,0,1.76,,,95.57,,,,,2.67,,2016
+Cities 2020,59631,"City of San Leandro, CA",United States of America,North America,,Energy,1,Electricity source,0,17,0,24,15,4,8,5,13,14,100,2017
+Cities 2020,59633,"City of Santa Cruz, CA",United States of America,North America,,Energy,1,Electricity source,0,12,0,0,58,0,10,0,20,0,100,
+Cities 2020,59642,"City of Dublin, CA",United States of America,North America,,Energy,1,Electricity source,0,0,0,0,21,0,25,1,15,38,100,2018
+Cities 2020,59644,"City of Culver City, CA",United States of America,North America,,Energy,1,Electricity source,0,0,0,0,25,0,15,0,50,10,100,2020
+Cities 2020,59653,"City of Manhattan Beach, CA",United States of America,North America,,Energy,1,Electricity source,0,0,0,0,0,0,0,0,100,0,100,
+Cities 2020,59657,"City of Beaverton, OR",United States of America,North America,,Energy,1,Electricity source,18.13,33.66,0,0.69,25.89,1.14,15.37,0.23,3.4,1.49,100,2019
+Cities 2020,59669,City of North Vancouver,Canada,North America,,Energy,1,Electricity source,0,2,1,0,90,6,1,0,0,0,100,
+Cities 2020,59678,"City of Evanston, IL",United States of America,North America,,Energy,1,Electricity source,35,26,0,35,1,0,2,0,0,1,100,
+Cities 2020,59707,"Town of Princeton, NJ",United States of America,North America,,Energy,1,Electricity source,24.4,24.5,0.3,47.5,0.7,,,,,2.6,,2019
+Cities 2020,59958,Tweed Shire Council,Australia,Southeast Asia and Oceania,,Energy,1,Electricity source,68,31,0,0,0,0,0,0,0,1,100,2017
+Cities 2020,59969,City of Mandurah,Australia,Southeast Asia and Oceania,,Energy,1,Electricity source,52,11,21,,,,,10,2,4,,2019
+Cities 2020,59985,City of Puerto Princesa,Philippines,Southeast Asia and Oceania,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,59996,Batangas City,Philippines,Southeast Asia and Oceania,,Energy,1,Electricity source,,,,,,,,,5,,,
+Cities 2020,59998,Narayanganj City Corporation,Bangladesh,South and West Asia,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,60011,City of San Jose del Monte,Philippines,Southeast Asia and Oceania,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,60019,Rajshahi City Corporation,Bangladesh,South and West Asia,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,60029,City of Cagayan de Oro,Philippines,Southeast Asia and Oceania,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,60073,Wolverhampton City Council,United Kingdom of Great Britain and Northern Ireland,Europe,,Energy,1,Electricity source,2.5,38,0.5,17,2,10,21,0,2,7,100,2019
+Cities 2020,60092,City of Porvoo,Finland,Europe,,Energy,1,Electricity source,0,0,0,18.19,73.95,7.55,0.29,0,0.02,0,100,2019
+Cities 2020,60105,Kirklees Council,United Kingdom of Great Britain and Northern Ireland,Europe,,Energy,1,Electricity source,8.5,57.9,0,17.4,0,0,0,0,0,16.2,100,2017
+Cities 2020,60110,Municipality of Chişinău,Republic of Moldova,Europe,,Energy,1,Electricity source,,90,,,,10,,1,1,,,
+Cities 2020,60114,City of Gdynia,Poland,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,60117,Winchester City Council,United Kingdom of Great Britain and Northern Ireland,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,60125,Klaipeda City Municipality,Lithuania,Europe,,Energy,1,Electricity source,,18,8,,,60,,,,14,,
+Cities 2020,60126,Tartu City Council,Estonia,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,60140,City of Nakuru,Kenya,Africa,,Energy,1,Electricity source,0,6,0,0,0,60,0.5,10,0.5,0.5,77.5,2020
+Cities 2020,60142,City of Kisumu,Kenya,Africa,,Energy,1,Electricity source,,,,0,,,0,,,,,
+Cities 2020,60168,Derry City & Strabane,United Kingdom of Great Britain and Northern Ireland,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,60216,City of Växjö,Sweden,Europe,,Energy,1,Electricity source,0.7,0.3,0.1,25.9,25.3,37.4,6.8,0,0.6,2.9,100,2018
+Cities 2020,60229,Municipality of Arendal,Norway,Europe,,Energy,1,Electricity source,0,0,0,0,98,0,0,0,0,2,100,
+Cities 2020,60233,Pärnu City Government,Estonia,Europe,,Energy,1,Electricity source,0,0,0,0,0,0,0,0,0,100,100,
+Cities 2020,60236,Municipality of Trelleborg,Sweden,Europe,,Energy,1,Electricity source,0,4,32,40,0,14,3,0,1,6,100,2017
+Cities 2020,60258,Prefeitura de Brusque,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,60264,Prefeitura de Botucatu,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,60267,Prefeitura de Guarujá,Brazil,Latin America,,Energy,1,Electricity source,2.9,9.1,3.7,2.6,68.1,8.2,5.4,0,0,0,100,
+Cities 2020,60268,Prefeitura de Brumadinho,Brazil,Latin America,,Energy,1,Electricity source,0,0,0,0,99,0,0,0,1,0,100,
+Cities 2020,60271,Prefeitura de Bertioga,Brazil,Latin America,,Energy,1,Electricity source,0,0,19,4,75,0,2,0,0,0,100,
+Cities 2020,60272,Prefeitura de Campina Grande,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,60273,Prefeitura de Extrema,Brazil,Latin America,,Energy,1,Electricity source,3.7,8.6,1.9,2.5,66.6,8.5,7.6,0,0.54,0,99.94,2018
+Cities 2020,60274,Prefeitura de Cruzeiro do Sul,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,60278,Prefeitura de Fernandópolis,Brazil,Latin America,,Energy,1,Electricity source,0,0,0,0,98,0,0,0,2,0,100,2019
+Cities 2020,60279,Prefeitura de Campos de Goytacazes,Brazil,Latin America,,Energy,1,Electricity source,,3,,,95,1,,,1,,,
+Cities 2020,60284,Prefeitura de Angra dos Reis,Brazil,Latin America,,Energy,1,Electricity source,3,13,5,2,70,1,0,0,1,5,100,2019
+Cities 2020,60295,Prefeitura de Jaguariúna,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,60307,Prefeitura de Nova Friburgo,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,60318,Prefeitura de Porto Velho,Brazil,Latin America,,Energy,1,Electricity source,,0,7,0,93,0,0,0,0,0,,2013
+Cities 2020,60320,Prefeitura de Presidente Prudente,Brazil,Latin America,,Energy,1,Electricity source,0,7,26,0,30,30,0,0,5,2,100,
+Cities 2020,60337,Prefeitura de Quissamã,Brazil,Latin America,,Energy,1,Electricity source,,,,,100,,,,,,,2020
+Cities 2020,60339,Prefeitura de Anapolis,Brazil,Latin America,,Energy,1,Electricity source,0,0,0,0,100,0,0,0,0,0,100,2020
+Cities 2020,60349,Prefeitura de São Leopoldo,Brazil,Latin America,,Energy,1,Electricity source,13,0,0,0,80,1,5,0,1,0,100,2016
+Cities 2020,60361,Prefeitura de Tangará da Serra,Brazil,Latin America,,Energy,1,Electricity source,2.9,9.1,3.7,2.6,68.1,8.2,5.4,0,0,0,100,
+Cities 2020,60369,Alcaldía Municipal de Armenia,Colombia,Latin America,,Energy,1,Electricity source,0,0,0,0,100,0,0,0,0,0,100,
+Cities 2020,60374,Alcaldía de Ibagué,Colombia,Latin America,,Energy,1,Electricity source,,,,,99,,,,1,,,
+Cities 2020,60379,Alcaldía de Tunja,Colombia,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,60385,Alcaldía de Villavicencio,Colombia,Latin America,,Energy,1,Electricity source,3,8,0,0,87,1,0,0,1,0,100,
+Cities 2020,60387,Alcaldía de Sincelejo,Colombia,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,60388,Municipalidad Provincial de Chiclayo,Peru,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,60391,Municipalidad de San Borja,Peru,Latin America,,Energy,1,Electricity source,1,54,9,3,20,0,0,0,0,13,100,
+Cities 2020,60392,Municipalidad de San Isidro (Lima),Peru,Latin America,,Energy,1,Electricity source,0,12.11,18.22,0,37.44,32.23,0,0,0,0,100,
+Cities 2020,60393,Municipalidad de Santiago,Chile,Latin America,,Energy,1,Electricity source,0,24,0,0,75,0,0,0,0,1,100,2015
+Cities 2020,60394,Gobierno Autónomo Municipal de Tarija,Bolivia (Plurinational State of),Latin America,,Energy,1,Electricity source,,60,38,,2,,,,,,,
+Cities 2020,60399,Municipalidad de Miraflores,Peru,Latin America,,Energy,1,Electricity source,,45,,,47,,3,,5,,,
+Cities 2020,60400,Municipalidad de Temuco,Chile,Latin America,,Energy,1,Electricity source,3.9,12.1,4.5,,,53.7,,,,25.8,,2014
+Cities 2020,60408,Municipalidad de Talca,Chile,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,60409,Municipalidad Provincial de Callao,Peru,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,60410,Municipalidad de Peñalolén,Chile,Latin America,,Energy,1,Electricity source,21,19.2,11.4,0,27,1.8,8.6,0.2,10.8,0,100,2019
+Cities 2020,60414,Municipalidad Venado Tuerto,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,60419,Municipalidad de Rio Grande,Argentina,Latin America,,Energy,1,Electricity source,0,100,0,0,0,0,0,0,0,0,100,
+Cities 2020,60423,Municipalidad de la Ciudad de Neuquén,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,60433,City of Hvidovre,Denmark,Europe,,Energy,1,Electricity source,10.5,7,0.88,4.7,10.5,13.5,45.1,0,3.6,4.22,100,2019
+Cities 2020,60546,Nanjing Municipal People's Government,China,East Asia,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,60588,City of Alba-Iulia,Romania,Europe,,Energy,1,Electricity source,,1,,,96,,1,,2,,,
+Cities 2020,60599,"Town of Bridgewater, NS",Canada,North America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,60603,"City of Prince George, BC",Canada,North America,,Energy,1,Electricity source,,,,,100,,,,,,,
+Cities 2020,60633,La mairie de Bujumbura,Burundi,Africa,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,60638,Walvis Bay Municipality,Namibia,Africa,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,60656,"City of Piedmont, CA",United States of America,North America,,Energy,1,Electricity source,3,42,0,21,8,5,7,5,9,,,
+Cities 2020,60906,Municipalidad de Vitacura,Chile,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,61790,"City of Emeryville, CA",United States of America,North America,,Energy,1,Electricity source,0,15,0,33,16,4,10,4,18,0,100,2018
+Cities 2020,62791,City of Botosani,Romania,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,62855,Egedal Municipality,Denmark,Europe,,Energy,1,Electricity source,9,7,1,5,11,13,45,0,4,5,100,2019
+Cities 2020,62868,Eskişehir Metropolitan Municipality,Turkey,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,63543,Fredensborg Kommune,Denmark,Europe,,Energy,1,Electricity source,12,7,1,5,10,13,45,0,4,3,100,2019
+Cities 2020,63562,"City of South Bend, IN",United States of America,North America,,Energy,1,Electricity source,48.6,0,0,42.3,0.4,0,8.4,0,0.3,0,100,2019
+Cities 2020,63601,"Township of Maplewood, NJ",United States of America,North America,,Energy,1,Electricity source,15.5,39.6,0.5,38.9,2,1.7,1,0,0.5,0.3,100,
+Cities 2020,63616,Abasan Al-Kabira Municipality,State of Palestine,Middle East,,Energy,1,Electricity source,17,18,50,,,5,,,10,,,
+Cities 2020,63762,Metropolitan Washington Council of Governments (COG),United States of America,North America,,Energy,1,Electricity source,23.82,36.53,0.1,33.95,1.35,0.94,2.94,0,0.33,0.04,100,2019
+Cities 2020,63836,Vadodara Municipal Corporation,India,South and West Asia,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,63862,"City of Ashland, OR",United States of America,North America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,63919,"City of Saratoga Springs, NY",United States of America,North America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,63941,"Broward County, FL",United States of America,North America,,Energy,1,Electricity source,2.1,72.3,0.3,22.3,0,0,0,0,1.5,1.5,100,2018
+Cities 2020,63999,"City of Miami Beach, FL",United States of America,North America,,Energy,1,Electricity source,3.6,69.8,0.5,21.7,0,0,0,0,0.4,4,100,2017
+Cities 2020,68290,Wyndham City Council,Australia,Southeast Asia and Oceania,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,68296,Hobsons Bay City Council,Australia,Southeast Asia and Oceania,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,68373,Prefeitura de Pedreira,Brazil,Latin America,,Energy,1,Electricity source,0,0,5,0,68,6,21,0,0,0,100,2019
+Cities 2020,68378,Municipalidad de Santiago de Surco,Peru,Latin America,,Energy,1,Electricity source,,20,,,80,,,,,,,
+Cities 2020,68383,Prefeitura de Itatiba,Brazil,Latin America,,Energy,1,Electricity source,0,0,0,0,0,0,0,0,0,0,0,
+Cities 2020,68385,Municipio La Chorrera,Panama,Latin America,,Energy,1,Electricity source,0,0,100,0,0,0,0,0,0,,,
+Cities 2020,68388,Prefeitura de Morungaba,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,69824,Västervik,Sweden,Europe,,Energy,1,Electricity source,0,1,0,35,36,11,15,0,0,2,100,2018
+Cities 2020,69840,Município de Itacoatiara,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,69848,Municipio de Loja,Ecuador,Latin America,,Energy,1,Electricity source,0,0,0,0,75,0,25,0,0,0,100,
+Cities 2020,69850,Municipalidad de Comas,Peru,Latin America,,Energy,1,Electricity source,0,1,98,0,0,0,0,0,0,1,100,2019
+Cities 2020,69968,Alcaldia de Rionegro,Colombia,Latin America,,Energy,1,Electricity source,0,25,15,0,45,0,0,0,15,0,100,2016
+Cities 2020,69973,Alcaldia de Barrancabermeja,Colombia,Latin America,,Energy,1,Electricity source,0.5,1.5,0,0,98,0,0,0,0,0,100,
+Cities 2020,69995,Kemi,Finland,Europe,,Energy,1,Electricity source,,,,41,,,,,,59,,
+Cities 2020,69999,Greifswald,Germany,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,70005,Tauragė,Lithuania,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,70261,Alcaldia de Floridablanca,Colombia,Latin America,,Energy,1,Electricity source,40,25,0,0,25,0,0,0,0,10,100,
+Cities 2020,73295,"City of La Crosse, WI",United States of America,North America,,Energy,1,Electricity source,29.8,12.1,0,29.2,6.3,0,18.3,0,0,4.3,100,
+Cities 2020,73301,"City of Gretna, LA",United States of America,North America,,Energy,1,Electricity source,,99,,0,0,0,0,,1,,,
+Cities 2020,73413,Commune de Cocody,Côte d'Ivoire,Africa,,Energy,1,Electricity source,15,13,20,0,45,2,0,0,5,0,100,
+Cities 2020,73530,"Town of Lexington, MA",United States of America,North America,,Energy,1,Electricity source,0,0,0,0,0,0,100,0,0,0,100,
+Cities 2020,73637,Steve Tshwete,South Africa,Africa,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,73645,KwaDukuza,South Africa,Africa,,Energy,1,Electricity source,86,2,0,0,0,0,0,0,1,11,100,2011
+Cities 2020,73650,Armstrong,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,73652,Caseros,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,73663,Correa,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,73666,Cuyahoga County,United States of America,North America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,73667,San Rafael de Heredia,Costa Rica,Latin America,,Energy,1,Electricity source,1,0,47,0,14,14,1,22,1,0,100,2015
+Cities 2020,73668,Malabrigo,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,73669,San Luis Obispo,United States of America,North America,,Energy,1,Electricity source,,,,,66,,11,12,11,,,2020
+Cities 2020,73671,Godoy Cruz,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,73680,Carcarana,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,73684,Carlos Tejedor,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,73692,Mount Barker District Council,Australia,Southeast Asia and Oceania,,Energy,1,Electricity source,15.9,45.5,0.8,0,31.5,0.6,31.5,0,5.7,,,2015
+Cities 2020,73694,Chacabuco,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,73695,Uranga,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,73700,Mariá Grande,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,73701,San Carlos Sud,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,73703,City of Port Phillip,Australia,Southeast Asia and Oceania,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,73706,City of Alameda,United States of America,North America,,Energy,1,Electricity source,0,0,0,0,55,9,36,0,0,0,100,2020
+Cities 2020,73712,Camilo Aldao,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,73713,San Miguel,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,73724,Arteaga,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,73725,Guaminí,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,73726,Itagüí,Colombia,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,73732,Monte Buey,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,73749,Nagpur,India,South and West Asia,,Energy,1,Electricity source,100,0,0,0,0,0,0,0,0,0,100,
+Cities 2020,73750,Tarakan City,Indonesia,Southeast Asia and Oceania,,Energy,1,Electricity source,0,78,22,0,0,0,0,0,0,0,100,2020
+Cities 2020,73754,Panaji,India,South and West Asia,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,73759,Jambi City,Indonesia,Southeast Asia and Oceania,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,73765,Tuguegarao City,Philippines,Southeast Asia and Oceania,,Energy,1,Electricity source,,,,,100,,,,,,,2018
+Cities 2020,73781,Singra,Bangladesh,"South and West Asia, Southeast Asia and Oceania",,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,73800,Gobernador Maciá,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,73802,Crespo,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,73879,Roskilde,Denmark,Europe,,Energy,1,Electricity source,36,22,1,21,0,7,13,0,0,0,100,
+Cities 2020,74386,Gangtok,India,South and West Asia,,Energy,1,Electricity source,49.61,,0.49,,49.89,,,,,,,
+Cities 2020,74401,"City of Encinitas, CA",United States of America,North America,,Energy,1,Electricity source,0,54,0,0,0,2,16,0,18,10,100,2012
+Cities 2020,74414,Boulder County,United States of America,North America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,74418,"Town of Breckenridge, CO",United States of America,North America,,Energy,1,Electricity source,33,37,0,0,1,0,25,0,4,0,100,2019
+Cities 2020,74423,"City of Key West, FL",United States of America,North America,,Energy,1,Electricity source,10,75,0.5,12,0.5,0,0,0,2,0,100,2019
+Cities 2020,74453,"City of Highland Park, IL",United States of America,North America,,Energy,1,Electricity source,29,31,0,35,1,0,3,0,0,1,100,
+Cities 2020,74463,"Village of Park Forest, IL",United States of America,North America,,Energy,1,Electricity source,27.3,9.1,0.2,15.1,0.5,0.3,47,0,0.1,0.4,100,2018
+Cities 2020,74466,"Village of South Barrington, IL",United States of America,North America,,Energy,1,Electricity source,50,50,0,0,0,0,0,0,0,0,100,
+Cities 2020,74488,"City of Beverly, MA",United States of America,North America,,Energy,1,Electricity source,,44,4,,,,,,1,51,,
+Cities 2020,74508,"City of Winona, MN",United States of America,North America,,Energy,1,Electricity source,23,23,0,28,6,2,15,0,3,0,100,2019
+Cities 2020,74531,Santa Fe County,United States of America,North America,,Energy,1,Electricity source,50.6,11.1,0,29.5,0,0,6.4,0.1,2.3,0,100,2016
+Cities 2020,74546,"City of Milwaukie, OR",United States of America,North America,,Energy,1,Electricity source,13.9836,36.8,0.07,0,25.24,0.17,5.5,0,0,18.1,99.8636,2020
+Cities 2020,74558,"Summit County, UT",United States of America,North America,,Energy,1,Electricity source,61,14,,,6,,,,,19,,2019
+Cities 2020,74563,"Town of Guilford, VT",United States of America,North America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,74575,Dane County,United States of America,North America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,74594,City of Boynton Beach,United States of America,North America,,Energy,1,Electricity source,5.34,70.04,0.38,17.13,0,0,0,0,0.06,7.05,100,
+Cities 2020,74607,Gemeente Alkmaar,Netherlands,Europe,,Energy,1,Electricity source,,43.1,,,,,,3.8,,,,2018
+Cities 2020,74643,Dijon métropole,France,Europe,,Energy,1,Electricity source,0.3,7.2,0.4,70.6,11.2,1.8,6.3,0,2.2,0,100,2019
+Cities 2020,74671,Kadıköy,Turkey,Europe,,Energy,1,Electricity source,1,75,0,0,24,0,0,0,0,0,100,2016
+Cities 2020,74672,Bursa Nilüfer Municipality,Turkey,Europe,,Energy,1,Electricity source,36,11,,,20,,2,3,3,25,,2019
+Cities 2020,74680,City of Iasi,Romania,Europe,,Energy,1,Electricity source,30,67,0.2,0,0,,0,0,0.8,2,,2012
+Cities 2020,74695,Sandnes kommune,Norway,Europe,,Energy,1,Electricity source,0,0,0,0,0,0,0,0,0,0,0,2018
+Cities 2020,826103,Ayuntamiento de Casimiro Castillo,Mexico,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,826182,Ayuntamiento de Tonalá,Mexico,Latin America,,Energy,1,Electricity source,45,80,0,0,0,0,0,0,,,,
+Cities 2020,826201,Ayuntamiento de Zapopan,Mexico,Latin America,,Energy,1,Electricity source,4.31,19.73,62.39,2.41,1.8,5.72,0.73,1.75,0.37,0.79,100,2018
+Cities 2020,826207,Junta Intermunicipal de Medio Ambiente Region Valles (JIMAV),Mexico,Latin America,,Energy,1,Electricity source,0,0,100,0,0,0,0,0,0,0,100,
+Cities 2020,826208,Junta Intermunicipal de Medio Ambiente de Sierra Occidental y Costa (JISOC),Mexico,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,826209,Aipromades Lago de Chapala,Mexico,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,826210,Junta Intermunicipal de Medio Ambiente de la Costa Sur (JICOSUR),Mexico,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,826211,Junta Intermunicipal de Medio Ambiente Altos Sur (JIAS),Mexico,Latin America,,Energy,1,Electricity source,0,12,88,,,,,,,,,2013
+Cities 2020,826212,Junta intermunicipal para la gestión integral de la cuenca del Río Coahuayana (JIRCO),Mexico,Latin America,,Energy,1,Electricity source,7,7,17,0,17,3,6,1,1,41,100,2017
+Cities 2020,826236,Prefeitura de Tremembé,Brazil,Latin America,,Energy,1,Electricity source,,4,,,95,,,,1,,,2019
+Cities 2020,826237,Alcaldia de Madrid,Colombia,Latin America,,Energy,1,Electricity source,0,0,0,0,100,0,0,0,0,0,100,2018
+Cities 2020,826238,Alcaldia de Mosquera,Colombia,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,826243,Alcaldia de Cartago,Colombia,Latin America,,Energy,1,Electricity source,,,,,99.9,,,,0.1,,,
+Cities 2020,826380,Junta Intermunicipal de la Cuenca Baja del Rio Ayuquila (JIRA),Mexico,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,826381,Junta Intermunicipal de la Región Norte del Estado de Jalisco (JINOR),Mexico,Latin America,,Energy,1,Electricity source,0,0,0,0,0,0,0,0,0,0,0,
+Cities 2020,826396,Munícipio de Sintra,Portugal,Europe,,Energy,1,Electricity source,37,23,0,0,16,6,15,0,1,2,100,2018
+Cities 2020,826407,Munícipio de Mirandela,Portugal,Europe,,Energy,1,Electricity source,0,20,75,0,0,0,0,0,5,,,
+Cities 2020,826427,Município de Valongo,Portugal,Europe,,Energy,1,Electricity source,37,25,,0,8,5,12,,,13,,2017
+Cities 2020,826429,Município de Figueira da Foz,Portugal,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,826450,Durham County Council,United Kingdom of Great Britain and Northern Ireland,Europe,,Energy,1,Electricity source,4.79,38.75,0.29,17.74,1.54,8.91,19.44,0,1.47,7.07,100,2018
+Cities 2020,827047,Fuzhou Municipal People's Government,China,East Asia,,Energy,1,Electricity source,46.44,,,43.19,7.86,,2.46,,0.05,,,2018
+Cities 2020,827048,Zhenjiang Municipal People's Government,China,East Asia,,Energy,1,Electricity source,60.4,7,18.8,15.7,,,23.5,,9.8,13.8,,
+Cities 2020,831152,Municipio de San Pedro de Urabá,Colombia,Latin America,,Energy,1,Electricity source,0,0,0,0,100,0,0,0,0,0,100,
+Cities 2020,831230,Municipality of La Marsa,Tunisia,Africa,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,831431,Cornwall Council,United Kingdom of Great Britain and Northern Ireland,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,831616,Commune de Tsévié,Togo,Africa,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,831618,Yaoundé 4,Cameroon,Africa,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,831674,Município de Amarante,Portugal,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,831926,Ramallah,State of Palestine,Middle East,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,831999,Concejo Municipal de Distrito de Monte Verde,Costa Rica,Latin America,,Energy,1,Electricity source,0,0,0,0,0,0,15.88,13.37,0.08,70.67,100,2019
+Cities 2020,832000,Municipalidad de Desamparados,Costa Rica,Latin America,,Energy,1,Electricity source,0,0,0.85,0,69.18,0.64,15.88,13.37,0.08,0,100,2018
+Cities 2020,832002,Municipalidad de Quepos,Costa Rica,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,832009,Ayuntamiento de Xalapa,Mexico,Latin America,,Energy,1,Electricity source,12,0,63,4,10,1,4,2,1,3,100,2013
+Cities 2020,832078,Município de Mafra,Portugal,Europe,,Energy,1,Electricity source,,,,0,,,,0,,0,,
+Cities 2020,832097,Município de Lagos,Portugal,Europe,,Energy,1,Electricity source,0,12.703,41.9,0,45,0,0,0,0,0.397,100,2018
+Cities 2020,832274,Município de Odemira,Portugal,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,832509,Slough Borough Council,United Kingdom of Great Britain and Northern Ireland,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,832610,"Orange County, NC",United States of America,North America,,Energy,1,Electricity source,27,35,1,35,1,0,0,0,1,0,100,2019
+Cities 2020,832838,Town of Wellfleet,United States of America,North America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,832909,Município de Coruche,Portugal,Europe,,Energy,1,Electricity source,,,,,,,,,10.3,,,
+Cities 2020,833284,West Midlands Combined Authority,United Kingdom of Great Britain and Northern Ireland,Europe,,Energy,1,Electricity source,3.8,31.4,0.2,15.1,2.8,12,47.4,,,2.5,,2019
+Cities 2020,834058,Bogor Regency,Indonesia,Southeast Asia and Oceania,,Energy,1,Electricity source,0,0,0,0,0,0,0,0,0,0,0,
+Cities 2020,834083,"City of Eau Claire, WI",United States of America,North America,,Energy,1,Electricity source,34.6,14.8,0,27,7.3,2,13.7,0,0,0.6,100,
+Cities 2020,834126,Dobong-gu Municipal Government,Republic of Korea,East Asia,,Energy,1,Electricity source,29.5,31.6,3,18.5,3.7,3.11,0.36,0.14,1.38,8.71,100,
+Cities 2020,834139,Gangdong-gu Municipal Government,Republic of Korea,East Asia,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,834157,Hang Tuah Jaya Municipal Council,Malaysia,Southeast Asia and Oceania,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,834167,Kochi Municipal Corporation,India,South and West Asia,,Energy,1,Electricity source,0,0,0,0,99.93,0,0,0,0.07,0,100,
+Cities 2020,834219,Municipality of Corrientes,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,834229,Municipality of Bragado,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,834251,Municipality of Coronel Dominguez,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,834255,Municipality of Guaymallén,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,834259,Municipality of Lobos,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,834261,Municipality of Irapuato,Mexico,Latin America,,Energy,1,Electricity source,0,0,100,0,0,0,0,0,0,0,100,
+Cities 2020,834278,Municipality of Resistencia,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,834289,Municipality of Rauch,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,834301,Municipality of San Antonio de Areco,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,834313,Municipality of Tópaga,Colombia,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,834347,Seberang Perai Municipal Council,Malaysia,Southeast Asia and Oceania,,Energy,1,Electricity source,,,,,,,,,1,,,
+Cities 2020,834373,"Town of York, ME",United States of America,North America,,Energy,1,Electricity source,0.5,48.5,0.2,30.5,8.9,6.04,3.6,0,1.7,0.06,100,2019
+Cities 2020,834374,Tagum City,Philippines,Southeast Asia and Oceania,,Energy,1,Electricity source,0,,0,0,0,0,0,0,,,,
+Cities 2020,834403,Municipality of San Martín de los Andes,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,834406,Municipality of San Pedro Tlaquepaque,Mexico,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,839648,Ayuntamiento Victoria,Mexico,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,839650,Ayuntamiento de Uriangato,Mexico,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,839665,Ayuntamiento de Celaya,Mexico,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,839666,Municipio de Escuintla,Guatemala,Latin America,,Energy,1,Electricity source,30,0,50,0,10,5,0,0,0,5,100,
+Cities 2020,839667,Municipio de Guanagazapa,Guatemala,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,839668,Municipio de Iztapa,Guatemala,Latin America,,Energy,1,Electricity source,,,10,,,7,,,,83,,2018
+Cities 2020,839672,Municipalidad Distrital de La Molina,Peru,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,839673,Municipalidad Distrital de Jesús María,Peru,Latin America,,Energy,1,Electricity source,,,,,100,,,,,,,2019
+Cities 2020,839967,Malargue,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,839970,San Justo (Argentina),Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,839980,Municipalidad de Avellaneda,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,840018,Municipalidad Distrital de Ate,Peru,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,840035,Cerrito,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,840036,La Paz,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,840038,Justiniano Posse,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,840039,Arequito,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,840070,Somerset West and Taunton,United Kingdom of Great Britain and Northern Ireland,Europe,,Energy,1,Electricity source,5,40,0,21,1,6,14,0,5,8,100,2018
+Cities 2020,840122,Siliguri Municipal Corporation,India,South and West Asia,,Energy,1,Electricity source,90.8,1.12,0,0,8.07,0,0,0,0.01,0,100,2018
+Cities 2020,840131,Tiruchirappalli City Municipal Corporation,India,South and West Asia,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,840161,Municipality of Del Carmen,Philippines,Southeast Asia and Oceania,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,840178,Michuhol-gu Municipal Government of Incheon,Republic of Korea,East Asia,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,840244,Prefeitura de Águas da Prata,Brazil,Latin America,,Energy,1,Electricity source,0,0,0,4,75,0,2,0,0,19,100,
+Cities 2020,840269,"Town of Whitby, ON",Canada,North America,,Energy,1,Electricity source,0,28,0,35,23,1,12,0,1,0,100,
+Cities 2020,840313,Municipalidad Cerro Navia,Chile,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,840371,Falkoping Kommun,Sweden,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,840521,City of Denizli,Turkey,Europe,,Energy,1,Electricity source,,,,,,,,,,,,2016
+Cities 2020,840529,Ayuntamiento de Victoria (Tamaulipas),Mexico,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,840601,Ayuntamiento de San Miguel de Allende,Mexico,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,840905,City of Kaysone Phomvihane,Lao People's Democratic Republic,Southeast Asia and Oceania,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,840914,Prefeitura de Cáceres,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,840917,Prefeitura de Pau Brasil,Brazil,Latin America,,Energy,1,Electricity source,,,,,100,,,,,,,
+Cities 2020,840918,Prefeitura de Pilões,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,840923,Prefeitura de Nova Santa Rita,Brazil,Latin America,,Energy,1,Electricity source,0,0,0,0,100,0,0,0,0,0,100,2020
+Cities 2020,840924,Prefeitura de Alexânia,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,840926,Prefeitura de Serra Talhada,Brazil,Latin America,,Energy,1,Electricity source,1.9,7.8,5.2,1.2,60.8,8.6,8.6,0,1.2,4.7,100,2019
+Cities 2020,840927,Prefeitura de São Cristóvão,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,840931,Prefeitura de Cordeirópolis,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,840935,Prefeitura de Brasiléia,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,840936,Prefeitura de Guanhães,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,840943,Prefeitura de Boa Ventura,Brazil,Latin America,,Energy,1,Electricity source,0,0,0,0,98,0,2,0,0,0,100,2020
+Cities 2020,840944,Prefeitura de Carnaúba dos Dantas,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,840945,Prefeitura de Santa Bárbara,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,840948,City of Pakse,Lao People's Democratic Republic,Southeast Asia and Oceania,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,841003,Ayuntamiento de Apodaca,Mexico,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,841098,Municipalidad Distrital de Chimbote,Peru,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,841269,Municipalidad de Montecarlo,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,841490,Penampang District Council,Malaysia,Southeast Asia and Oceania,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,841491,Muar Municipal Council,Malaysia,Southeast Asia and Oceania,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,841492,Tawau Municipal Council,Malaysia,Southeast Asia and Oceania,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,841540,South Lakeland District Council,United Kingdom of Great Britain and Northern Ireland,Europe,,Energy,1,Electricity source,3.11,26.76,0.17,11.9,2.28,8.81,27.98,0,13.16,5.83,100,2020
+Cities 2020,841964,"City of Hallandale Beach, FL",United States of America,North America,,Energy,1,Electricity source,5.34,70.04,0.38,17.13,0,0,0,0,0.06,7.05,100,2016
+Cities 2020,842160,Balikesir Metropolitan Municipality,Turkey,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,842165,Mezitli,Turkey,Europe,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,843399,Wandsworth Council,United Kingdom of Great Britain and Northern Ireland,Europe,,Energy,1,Electricity source,3.11,26.76,0.17,11.9,2.28,8.81,27.98,0,13.16,5.83,100,2020
+Cities 2020,845131,Prefeitura de Dois Irmãos,Brazil,Latin America,,Energy,1,Electricity source,,,,,100,,,,,,,
+Cities 2020,845132,Prefeitura de Goiás (Goiás Velho),Brazil,Latin America,,Energy,1,Electricity source,0,0,0,0,100,0,0,0,0,0,100,2019
+Cities 2020,845133,Prefeitura de Monteiro Lobato,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,845134,Prefeitura de São Bento do Una,Brazil,Latin America,,Energy,1,Electricity source,,,,,,,100,,,,,2019
+Cities 2020,845299,San Sebastián de Mariquita,Colombia,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,845301,Montes de Oca,Costa Rica,Latin America,,Energy,1,Electricity source,0,0,0,0,100,0,0,0,0,0,100,2020
+Cities 2020,845302,Paraíso,Costa Rica,Latin America,,Energy,1,Electricity source,,,,,1,,,,,,,
+Cities 2020,845304,Santa Ana (Costa Rica),Costa Rica,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,845307,Zarcero,Costa Rica,Latin America,,Energy,1,Electricity source,0,0,0,0,69.18,0.64,15.88,13.37,0.08,0.85,100,2019
+Cities 2020,845308,Puerto Cortés,Honduras,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,845309,Puente Piedra,Peru,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,845316,Villa de Soto,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,845317,Quemú Quemú,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,847236,Ramona,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,847242,Oberá,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,847243,Maggiolo,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,847244,Chañaritos,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,847245,Leandro . N. Alem,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,847246,La Francia,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,847263,Almafuerte,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,847922,Junta Municipal de Medio Ambiente Lagunas (JIMAL),Mexico,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848122,Alajuela,Costa Rica,Latin America,,Energy,1,Electricity source,2,2,33,0,60,1,0,0,2,0,100,2020
+Cities 2020,848125,Oreamuno,Costa Rica,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848127,Santa Bárbara (Costa Rica),Costa Rica,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848128,Ocú,Panama,Latin America,,Energy,1,Electricity source,0,10,30,0,48,0,7,0,5,0,100,2019
+Cities 2020,848129,Esquías,Honduras,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848130,San Pedro Yepocapa,Guatemala,Latin America,,Energy,1,Electricity source,,,,,10,,,,,,,2020
+Cities 2020,848131,Gámeza,Colombia,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848133,Villa Gobernador Gálvez,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848135,San Pedro de la Paz,Chile,Latin America,,Energy,1,Electricity source,12.1,0.6,43.8,0,8.2,35.3,0,0,0,0,100,2015
+Cities 2020,848137,Beteitiva,Colombia,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848138,Prefeitura de Conde (Paraíba),Brazil,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848145,Ciudad Madero,Mexico,Latin America,,Energy,1,Electricity source,4.31,20,62.39,2.41,1.8,5.72,0.73,1.75,0.37,0.52,100,2020
+Cities 2020,848249,Corrales,Colombia,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848259,Mongua,Colombia,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848402,Lincoln (Argentina),Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848404,Mongui,Colombia,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848407,Junta Intermunicipal de Medio Ambiente del Ayuquila Alto,Mexico,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848408,Municipio de Cajamarca,Colombia,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848409,Lince,Peru,Latin America,,Energy,1,Electricity source,,,,,40,,,60,,,,2020
+Cities 2020,848469,City of Georgetown,Guyana,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848474,Richmond Council,United Kingdom of Great Britain and Northern Ireland,Europe,,Energy,1,Electricity source,3.11,26.76,0.17,11.9,2.28,8.81,27.98,0,13.16,5.83,100,2020
+Cities 2020,848476,Municipalidad de Cañas,Costa Rica,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848478,Banyuwangi City,Indonesia,Southeast Asia and Oceania,,Energy,1,Electricity source,57,25,,,12,,,,6,,,2019
+Cities 2020,848483,Oliva (Argentina),Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848484,General Lagos,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848502,West Torrens City Council,Australia,Southeast Asia and Oceania,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848565,Chicago Metropolitan Mayors Caucus,United States of America,North America,,Energy,1,Electricity source,38,21,0,35,1,2,2,0,0,1,100,2015
+Cities 2020,848567,Mid-America Regional Council,United States of America,North America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848568,"Metropolitan Council, Twin Cities",United States of America,North America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848927,Ville de Maroua,Cameroon,Africa,,Energy,1,Electricity source,,,24,,75,,,,1,,,2020
+Cities 2020,848964,Presidencia Roque Sáenz Peña,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848970,Villa Carlos Paz,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848971,Balcarce,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848972,Transito,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848976,Pronunciamiento,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848977,Busbanza,Colombia,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848978,Floresta,Colombia,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848981,City of Ormoc,Philippines,Southeast Asia and Oceania,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848997,Villarino,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,848998,Villa de Merlo,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,849016,Concepción del Uruguay,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,849023,Uruapan,Mexico,Latin America,,Energy,1,Electricity source,0,0,0,0,100,0,0,0,0,0,100,2020
+Cities 2020,849039,Ceres (Argentina),Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,849040,General Pueyrredon,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,849041,Gualeguaychú,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,849042,Plottier,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,849043,Santa Anita (Argentina),Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,849044,Villa Amelia,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,849051,Udaipur Municipal Corporation,India,South and West Asia,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,849121,Junín,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
+Cities 2020,849122,Puerto Madryn,Argentina,Latin America,,Energy,1,Electricity source,,,,,,,,,,,,
