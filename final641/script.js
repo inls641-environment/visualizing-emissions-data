@@ -518,6 +518,6 @@
 }
 };
 
-    let cities_map = new USA_MAP("us_map");
-    //let path_data = d3.json('us-states.json');
-    cities_map.render("us");
+    // let cities_map = new USA_MAP("us_map");
+    // //let path_data = d3.json('us-states.json');
+    // cities_map.render("us");
