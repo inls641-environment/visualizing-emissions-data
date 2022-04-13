@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>US Emissions Data</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/topojson.v2.min.js"></script>
+    <script src="script.js"></script>
+    <style>
+        .states :hover {
+            fill: #97aac2;;
+        }
+    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400italic,700|Roboto+Condensed:400,700" rel="stylesheet" type="text/css">
+<section class="hero image-as-background" style="background-image: url(&quot;https://cdn.pixabay.com/photo/2021/10/10/21/30/power-plant-6698838_1280.jpg&quot;);opacity: 1;">
+    <div class="hero-container">
+        <p class="animate fadeInLeft delay-400">INLS 641 S22 Final Project </p>
+        <h1 class="hero-title animate fadeInLeft delay-600">United States Emissions Data</h1>
+    </div>
+</section>
+
+<div class = "column">
+    <div class = "selectWrapper">
+        <p>  Where do cities get their energy? :
+            <select class="selectBox" onchange="cities_map.render(this.options[this.selectedIndex].value);">
+                <option value="all">All</option>
+                <option value="Renewable">Majority Renewable</option>
+                <option value="Non-Renewable">Majority Non-Renewable</option>
+            </select>
+        </p>
+        <div class = "selectWrapper">
+            <p>  Select an Energy Source:
+                <select class="selectBox" onchange="cities_map.render(this.options[this.selectedIndex].value);">
+                    <option value="all">All</option>
+                    <option value="Coal">Coal</option>
+                    <option value="Gas">Gas</option>
+                    <option value="Oil">Oil</option>
+                    <option value="Nuclear">Nuclear</option>
+                    <option value="Hydro">Hydro</option>
+                    <option value="BioEnergy">BioEnergy</option>
+                    <option value="Wind">Wind</option>
+                    <option value="Geothermal">Geothermal</option>
+                    <option value="Solar">Solar</option>
+                    <option value="Other">Other</option>
+                </select>
+            </p>
+        </div>
+        <div class = "selectWrapper">
+            <p>  Select an Emissions Reporting Standard:
+                <select class="selectBox" onchange="cities_map.render(this.options[this.selectedIndex].value);">
+                    <option value="Both">Both</option>
+                    <option value="BASIC">BASIC</option>
+                    <option value="Traditional">Traditional</option>
+                </select>
+            </p>
+        </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
