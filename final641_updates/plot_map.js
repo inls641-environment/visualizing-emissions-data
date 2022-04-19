@@ -111,6 +111,9 @@ class USA_MAP {
                 .attr("stroke", "black")
                 .on("click", (event,d) => { 
                     document.getElementById("cityIDfromMap").innerHTML = d[1][0]['ID']; //write to HYML trick from: https://sebhastian.com/display-javascript-variable-html/
+                    //var cities_plot = new city_scatterplot("scatter_plot", emissions)
+                    console.log(d[1][0]['ID'])
+                    var city_pie = new city_piechart("ummm_pie", emissions, d[1][0]['ID']);
                     })
                 //.on("mouseover", (event, d) => {
                 //    document.getElementById("details").innerHTML = "The " + d[1][0]['AccountName'] +
