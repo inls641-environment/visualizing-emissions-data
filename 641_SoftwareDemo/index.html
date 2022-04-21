@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>US Emissions Data</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/topojson.v2.min.js"></script>
+    <script src="https://unpkg.com/simple-statistics@7.7.0/dist/simple-statistics.min.js"></script>
+    <script src="emissions_data.js"></script>
+    <script src="plot_map.js"></script>
+    <script src="plot_piechart.js"></script>
+    <script src="plot_scatterplot.js"></script>
+    <style>
+        .cities :click{
+            fill: #97aac2;;
+        }
+    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<!-- This is the banner -->
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400italic,700|Roboto+Condensed:400,700" rel="stylesheet" type="text/css">
+<section class="hero image-as-background" style="background-image: url(&quot;https://cdn.pixabay.com/photo/2021/10/10/21/30/power-plant-6698838_1280.jpg&quot;);opacity: 1;">
+    <div class="hero-container">
+        <p class="animate fadeInLeft delay-400">INLS 641 S22 Final Project </p>
+        <h1 class="hero-title animate fadeInLeft delay-600">United States Emissions Data</h1>
+        <p class="animate fadeInLeft delay-400"> Explore the map and discover links between energy sources and reported emissions.
+            Data was collected from the Carbon Disclosure Project.
+        </p>
+    </div>
+</section>
+
+<!--This is the content -->
+
+<div class = "main-content">
+
+    <!--Row = contains three columns styled at 33% in CSS-->
+    <div class = "row">
+        <div class = "column">
+
+            <!--Column 1 Content = The Filters -->
+            <div class = "selectWrapper">
+                <p>  Where do cities get their energy? :
+                    <select class="selectBox" onchange="cities_map.render(this.options[this.selectedIndex].value);">
+                        <option value="all">All</option>
+                        <option value="Renewable">Majority Renewable</option>
+                        <option value="Non-Renewable">Majority Non-Renewable</option>
+                    </select>
+                </p>
+            </div>
+
+            <div class = "selectWrapper">
+                <p>  Energy source that's higher than national average:
+                    <select class="selectBox" onchange="cities_map.render(this.options[this.selectedIndex].value);">
+                        <option value="all">All</option>
+                        <option value="Coal">Coal</option>
+                        <option value="Gas">Gas</option>
+                        <option value="Oil">Oil</option>
+                        <option value="Nuclear">Nuclear</option>
+                        <option value="Hydro">Hydro</option>
+                        <option value="BioEnergy">BioEnergy</option>
+                        <option value="Wind">Wind</option>
+                        <option value="Geothermal">Geothermal</option>
+                        <option value="Solar">Solar</option>
+                        <option value="Other">Other</option>
+                    </select>
+                </p>
+            </div>
+
+            <div class = "selectWrapper">
+                <p>  Select an Emissions Reporting Standard:
+                    <select class="selectBox" onchange="cities_map.render(this.options[this.selectedIndex].value);">
+                        <option value="Both">Both</option>
+                        <option value="BASIC">BASIC</option>
+                        <option value="Traditional">Traditional</option>
+                    </select>
+                </p>
+            </div>
+            <div class = "selectWrapper">
+                <p>  Selected City Information</p>
+                <span id="cityname">
+                    <p>
+                    </p>
+                </span>
+                <span id="emissionsinfo">
+                    <p>
+
+                    </p>
+                      </span>
+            </div>
+        </div>
+    </div>
+
+    <!--Column 2 Content = The Scatterplot -->
+    <div class ="column">
+        <div class = "selectWrapper">
+            <p> See How Your City Compares:</p>
+            <!-- The scatter plot!!! -->
+            <svg id="scatter_plot" style="width: 350px; height: 350px; "></svg>
+        </div>
+    </div>
+
+    <!--Column 3 Content = The city information popup box -->
+    <div class="column">
+        <div class = "selectWrapper">
+            <p> Breakdown of Selected City's Energy Resources: </p>
+            <!-- The pie chart!!! -->
+            <svg id="ummm_pie" style="width: 350px; height: 350px; "></svg>
+        </div>
+    </div>
+
+    <!-- The map!!! -->
+    <svg id="us_map" style="width: 1000px; height: 600px; "></svg>
+
+    <div>
+        <p id="cityIDfromMap">City ID - temp thing</p>
+        <script>
+            var cities_map = new USA_MAP("us_map", emissions);
+            cities_map.render("us");
+            var cities_plot = new city_scatterplot("scatter_plot", emissions)
+            //var city_pie = new city_piechart("ummm_pie", emissions)
+        </script>
+    </div>
+
+</div>
+This data was collected in partnership by CDP and ICLEI - Local Governments for Sustainability
+</body>
+</html>
