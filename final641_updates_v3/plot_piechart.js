@@ -69,7 +69,7 @@ class city_piechart{
         };
 
         //create title
-        document.getElementById('pie_text').innerHTML = testCity['city'] + "'s energy usage";
+        document.getElementById('pie_text').innerHTML = testCity['city'] + "'s energy usage" + '<br />';
 
         // set the color scale
         const color = d3.scaleOrdinal()
