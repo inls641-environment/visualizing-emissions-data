@@ -127,7 +127,7 @@ class city_histogram{
         };
 
         //create title
-        document.getElementById('histo_text').innerHTML = interest_resource + ' histogram for ' + testCity['city'];
+        document.getElementById('histo_text').innerHTML = interest_resource + ' histogram for ' + testCity['city'] + '<br />';
 
         var min = d3.min(fulldata);
         var max = d3.max(fulldata);
